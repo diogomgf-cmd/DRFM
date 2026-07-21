@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ciencia-easy-001",
+    "theme": "ciencia",
+    "difficulty": "easy",
+    "title": "A Fotossintese",
+    "source": "National Geographic Portugal",
+    "content": "A fotossintese e o processo pelo qual as plantas, algas e algumas bacterias convertem a luz solar em energia quimica. Atraves da clorofila, um pigmento verde presente nos cloroplastos, estes organismos capturam a energia da luz e utilizam-na para transformar dioxido de carbono e agua em glicose e oxigenio.\n\nEste processo e fundamental para a vida na Terra, pois alem de produzir o oxigenio que respiramos, constitui a base da cadeia alimentar. Sem a fotossintese, a maioria dos seres vivos nao teria acesso a energia suficiente para sobreviver.\n\nA fotossintese ocorre em duas fases principais: a fase luminosa, que depende diretamente da luz, e a fase escura (ou ciclo de Calvin), que nao precisa de luz mas utiliza os produtos da fase anterior.",
+    "questions": [
+      {
+        "question": "Qual e o principal pigmento responsavel pela captacao de luz na fotossintese?",
+        "options": ["Melanina", "Clorofila", "Hemoglobina", "Caroteno"],
+        "correct": 1
+      },
+      {
+        "question": "Quais sao os produtos finais da fotossintese?",
+        "options": ["Dioxido de carbono e agua", "Glicose e oxigenio", "Proteinas e gordura", "Agua e sais minerais"],
+        "correct": 1
+      },
+      {
+        "question": "Porque e a fotossintese fundamental para a vida na Terra?",
+        "options": ["Porque aquece o planeta", "Porque produz o oxigenio que respiramos e e a base da cadeia alimentar", "Porque elimina o dioxido de carbono da atmosfera", "Porque cria novas especies de plantas"],
+        "correct": 1
+      },
+      {
+        "question": "Quantas fases principais tem a fotossintese?",
+        "options": ["Uma", "Duas", "Tres", "Quatro"],
+        "correct": 1
+      },
+      {
+        "question": "A fase escura da fotossintese tambem e conhecida como:",
+        "options": ["Ciclo de Krebs", "Ciclo de Calvin", "Ciclo celular", "Ciclo da agua"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "tecnologia-medium-001",
+    "theme": "tecnologia",
+    "difficulty": "medium",
+    "title": "Computacao Quantica: O Proximo Salto",
+    "source": "MIT Technology Review",
+    "content": "A computacao quantica representa uma mudanca radical na forma como processamos informacao. Ao contrario dos computadores tradicionais, que utilizam bits (0 ou 1), os computadores quanticos usam qubits, que podem existir em multiplos estados simultaneamente gracas ao principio da superposicao quanta.\n\nEsta capacidade permite resolver certos problemas exponencialmente mais rapido do que os melhores supercomputadores atuais. Aplicacoes praticas incluem a simulacao de moleculas para descoberta de farmacos, otimizacao de cadeias de suprimento complexas e quebrar sistemas de encriptacao.\n\nNo entanto, os computadores quanticos atuais enfrentam desafios significativos. Os qubits sao extremamente sensiveis a interferencias ambientais, exigindo temperaturas proximas do zero absoluto. alem disso, a correcao de erros quanticos continua a ser um obstaculo tecnico consideravel.\n\nEmpresas como Google, IBM e varias startups estao a competir para alcancar a 'vantagem quantica' pratica, o ponto em que um computador quantico pode resolver problemas que os computadores classicos simplesmente nao conseguem abordar.",
+    "questions": [
+      {
+        "question": "Qual e a diferenca fundamental entre bits e qubits?",
+        "options": ["Qubits sao mais rapidos", "Qubits podem existir em multiplos estados simultaneamente", "Bits sao mais precisos", "Qubits usam mais energia"],
+        "correct": 1
+      },
+      {
+        "question": "Qual destes NAO e mencionado como aplicacao pratica da computacao quantica?",
+        "options": ["Simulacao de moleculas", "Otimizacao de cadeias de suprimento", "Criacao de redes sociais", "Quebrar sistemas de encriptacao"],
+        "correct": 2
+      },
+      {
+        "question": "Que temperatura e geralmente necessaria para os qubits funcionarem corretamente?",
+        "options": ["Temperatura ambiente", "Temperaturas muito altas", "Temperaturas proximas do zero absoluto", "Qualquer temperatura funciona"],
+        "correct": 2
+      },
+      {
+        "question": "O que significa 'vantagem quantica'?",
+        "options": ["Quando um computador quantico e mais barato", "Quando um computador quantico resolve problemas que computadores classicos nao conseguem", "Quando um computador quantico usa menos energia", "Quando um computador quantico e menor"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, qual e um dos principais desafios tecnicos da computacao quantica?",
+        "options": ["Falta de aplicacoes praticas", "Correcao de erros quanticos", "Excesso de energia necessaria", "Tamanho dos componentes"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "filosofia-hard-001",
+    "theme": "filosofia",
+    "difficulty": "hard",
+    "title": "O Mito da Caverna de Platao",
+    "source": "A Republica, Livro VII",
+    "content": "Imagina uma caverna subterranea onde, desde a infancia, seres humanos estao acorrentados de tal modo que nao podem mover a cabeca nem os olhos. Atras deles, arde uma fogueira, e entre a fogueira e os prisioneiros existe um caminho elevado por onde pessoas transportam objetos variados.\n\nOs prisioneiros, nunca tendo visto outra coisa, acreditam que as sombras projetadas na parede da caverna sao a realidade. Se um deles fosse libertado e forcado a olhar para a luz, ficaria deslumbrado e incapaz de ver os objetos reais. Seria necessario habituar-se gradualmente: primeiro as sombras, depois os reflexos na agua, finalmente os objetos e, por ultimo, o proprio sol.\n\nSe esse prisioneiro libertado regressasse a caverna para contar aos outros o que viu, seria ridicularizado. Os restantes prisioneiros, acostumados a escuridao, nao acreditariam nas suas palavras e considerariam que a libertacao lhes tinha estragado a vista.\n\nEsta alegoria ilustra a jornada do filosofo: da ignorancia (sombras) ao conhecimento (luz), e a dificuldade de comunicar verdades profundas a quem nunca as experimentou. Para Platao, a educacao e precisamente esta conversao da alma em direcao a luz da verdade.",
+    "questions": [
+      {
+        "question": "O que representam as sombras na alegoria da caverna?",
+        "options": ["O conhecimento verdadeiro", "A ignorancia e a ilusao", "A liberdade", "A educacao"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo Platao, o que aconteceria a um prisioneiro libertado ao ver a luz pela primeira vez?",
+        "options": ["Adaptar-se-ia imediatamente", "Ficaria deslumbrado e incapaz de ver", "Sentir-se-ia feliz", "Voltaria imediatamente a caverna"],
+        "correct": 1
+      },
+      {
+        "question": "Como reagiriam os outros prisioneiros se o libertado tentasse contar-lhes o que viu?",
+        "options": ["Acreditariam nele", "Ficariam curiosos", "Ridiculariza-lo-iam", "Pediriam para serem libertados"],
+        "correct": 2
+      },
+      {
+        "question": "Na alegoria, o que representa o sol?",
+        "options": ["A ignorancia", "A verdade e o conhecimento supremo", "O poder politico", "A liberdade fisica"],
+        "correct": 1
+      },
+      {
+        "question": "Que papel atribui Platao a educacao nesta alegoria?",
+        "options": ["Entretenimento", "Controlo social", "Conversao da alma em direcao a verdade", "Acumulacao de conhecimentos"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "historia-easy-001",
+    "theme": "historia",
+    "difficulty": "easy",
+    "title": "A Revolucao dos Cravos",
+    "source": "BBC Historia",
+    "content": "A 25 de abril de 1974, Portugal viveu uma revolucao que mudou o curso da sua historia. Conhecida como Revolucao dos Cravos, este movimento militar levou ao fim de quase 50 anos de ditadura do Estado Novo.\n\nNa madrugada desse dia, militares do Movimento das Forcas Armadas (MFA) ocuparam pontos estrategicos de Lisboa. A populacao saiu as ruas para apoiar os militares, colocando cravos vermelhos nos canos das espingardas e nos uniformes dos soldados, dai o nome da revolucao.\n\nO regime de Salazar e depois de Marcello Caetano tinha submetido Portugal a uma ditadura conservadora, com censura, policia politica (PIDE) e guerras coloniais em Africa. A revolucao trouxe democracia, liberdade de expressao e o fim do imperio colonial.\n\nO 25 de abril e hoje feriado nacional e celebra-se um pouco por todo o pais com concertos, desfiles e commemoracoes.",
+    "questions": [
+      {
+        "question": "Em que ano ocorreu a Revolucao dos Cravos?",
+        "options": ["1964", "1974", "1984", "1994"],
+        "correct": 1
+      },
+      {
+        "question": "Porque e chamada 'Revolucao dos Cravos'?",
+        "options": ["Porque aconteceu na primavera", "Porque as pessoas colocavam cravos nas espingardas dos soldados", "Porque foi uma revolucao pacifica", "Porque os cravos eram o simbolo do regime"],
+        "correct": 1
+      },
+      {
+        "question": "O que era o Estado Novo?",
+        "options": ["Um partido politico", "Uma ditadura que governou Portugal durante quase 50 anos", "Uma instituicao militar", "Um movimento cultural"],
+        "correct": 1
+      },
+      {
+        "question": "O que trouxe a revolucao a Portugal?",
+        "options": ["Mais guerras", "Democracia e liberdade de expressao", "Um novo rei", "Isolamento internacional"],
+        "correct": 1
+      },
+      {
+        "question": "O 25 de abril e hoje:",
+        "options": ["Um dia normal", "Feriado nacional", "Dia de eleicoes", "Dia de luto"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "livros-medium-001",
+    "theme": "livros",
+    "difficulty": "medium",
+    "title": "Excerto: 'Os Maias' de Eca de Queiros",
+    "source": "Os Maias, Eca de Queiros (1888)",
+    "content": "O Ramires, de facto, nunca mais tornara aquela casa tao severa de S. Maria da Feira, onde os seus avos tinham vivido, com uma pompa e uma consideracao que ainda se lembravam. E agora, na sua triste vida errante, por estalagens de provincias, entre gente desconhecida, que o nao estimava nem o conhecia, muitas vezes pensava no quarto velho em que nascera, com a sua alcova de paineis de damasco, e a varanda sobre o jardim.\n\nAquela casa, que lhe pertencia por heranca, estava fechada, como um tumulo, desde a morte do seu pai. As ervas cresciam nos patios. As janelas, com os seus reposteiros de cassa branca, pareciam olhos cegos olhando tristemente a rua deserta.\n\nMas o Ramires sonhava sempre voltar. Um dia, quando a fortuna lhe fosse menos adversa, havia de reconstruir a casa dos seus avos, reatar as tradicoes da familia, viver ali, com a mulher e os filhos, numa paz digna e honrada. E este sonho sustentava-o nas horas amargas da sua vida de bohemia.",
+    "questions": [
+      {
+        "question": "O que representa a casa de S. Maria da Feira para o Ramires?",
+        "options": ["Um investimento imobiliario", "As suas raizes, a tradicao familiar e um refugio", "Um lugar de infelicidade", "Uma propriedade sem valor sentimental"],
+        "correct": 1
+      },
+      {
+        "question": "Porque esta a casa fechada?",
+        "options": ["Porque esta em renovacao", "Porque o Ramires nao gosta dela", "Desde a morte do pai do Ramires", "Porque esta vendida"],
+        "correct": 2
+      },
+      {
+        "question": "Como e descrita a casa no estado atual?",
+        "options": ["Em perfeito estado", "Como um tumulo, com ervas nos patios e janelas como olhos cegos", "Totalmente destruida", "Ocupada por outras pessoas"],
+        "correct": 1
+      },
+      {
+        "question": "Que sonho alimenta o Ramires nos momentos dificeis?",
+        "options": ["Ficar rico rapidamente", "Reconstruir a casa dos avos e viver la com a familia", "Viajar pelo mundo", "Escrever um livro famoso"],
+        "correct": 1
+      },
+      {
+        "question": "Qual e o estado atual da vida do Ramires?",
+        "options": ["Vive confortavelmente na sua propriedade", "Vive uma vida errante, em estalagens, entre gente desconhecida", "E um homem de negocios bem-sucedido", "Esta preso numa cadeia"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "economia-hard-001",
+    "theme": "economia",
+    "difficulty": "hard",
+    "title": "A Teoria dos Jogos e o Equilibrio de Nash",
+    "source": "Journal of Economic Perspectives",
+    "content": "A teoria dos jogos e um ramo da matematica aplicada que estuda situacoes estrategicas onde os agentes tomam decisoes que afetam mutuamente os seus resultados. Desenvolvida inicialmente por John von Neumann e Oskar Morgenstern, ganhou maior notoriedade com o trabalho de John Nash, que introduziu o conceito de equilibrio que hoje leva o seu nome.\n\nO equilibrio de Nash descreve uma situacao em que nenhum jogador tem incentivo para mudar a sua estrategia, dada a estrategia dos outros jogadores. Nao significa necessariamente o melhor resultado para todos, mas sim um estado de estabilidade estrategica.\n\nO exemplo mais celebre e o dilema do prisioneiro: dois suspeitos, interrogados separadamente, podem cooperar entre si ou trair-se. O equilibrio de Nash neste jogo leva ambos a trair, mesmo que a cooperacao produzisse um resultado melhor para ambos.\n\nEsta teoria tem aplicacoes vastas, desde a economia e ciencias politicas ate a biologia evolucionaria e inteligencia artificial. Porem, critics apontam que o equilibrio de Nash assume racionalidade perfeita, o que raramente se verifica no comportamento humano real.",
+    "questions": [
+      {
+        "question": "O que estuda a teoria dos jogos?",
+        "options": ["Jogos de tabuleiro", "Situacoes estrategicas onde decisoes mutuamente se afetam", "Apenas jogos de azar", "Teoria da probabilidade"],
+        "correct": 1
+      },
+      {
+        "question": "O que define o equilibrio de Nash?",
+        "options": ["O melhor resultado para todos os jogadores", "Uma situacao em que nenhum jogador tem incentivo para mudar a sua estrategia", "O resultado mais justo", "Uma situacao em que todos ganham igualmente"],
+        "correct": 1
+      },
+      {
+        "question": "No dilema do prisioneiro, qual e o equilibrio de Nash?",
+        "options": ["Ambos cooperam", "Ambos traem", "Um coopera e o outro trai", "Nenhum toma decisao"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, qual e a principal critica ao equilibrio de Nash?",
+        "options": ["E demasiado simples", "Assume racionalidade perfeita, o que raramente se verifica no comportamento humano", "Nao tem aplicacoes praticas", "Foi inventado ha demasiado tempo"],
+        "correct": 1
+      },
+      {
+        "question": "Em quais areas tem aplicacao a teoria dos jogos, segundo o texto?",
+        "options": ["Apenas em economia", "Economia, ciencias politicas, biologia evolucionaria e inteligencia artificial", "Apenas em matematica pura", "Apenas em jogos de video"],
+        "correct": 1
+      }
+    ]
+  }
+]

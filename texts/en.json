@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ciencia-easy-001",
+    "theme": "ciencia",
+    "difficulty": "easy",
+    "title": "Photosynthesis",
+    "source": "National Geographic",
+    "content": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight into chemical energy. Through chlorophyll, a green pigment found in chloroplasts, these organisms capture light energy and use it to transform carbon dioxide and water into glucose and oxygen.\n\nThis process is fundamental to life on Earth, as it not only produces the oxygen we breathe but also forms the base of the food chain. Without photosynthesis, most living beings would not have access to enough energy to survive.\n\nPhotosynthesis occurs in two main phases: the light-dependent reactions, which directly require light, and the light-independent reactions (or Calvin cycle), which don't need light but use the products from the previous phase.",
+    "questions": [
+      {
+        "question": "What is the main pigment responsible for capturing light in photosynthesis?",
+        "options": ["Melanin", "Chlorophyll", "Hemoglobin", "Carotene"],
+        "correct": 1
+      },
+      {
+        "question": "What are the final products of photosynthesis?",
+        "options": ["Carbon dioxide and water", "Glucose and oxygen", "Proteins and fat", "Water and minerals"],
+        "correct": 1
+      },
+      {
+        "question": "Why is photosynthesis fundamental for life on Earth?",
+        "options": ["Because it warms the planet", "Because it produces the oxygen we breathe and is the base of the food chain", "Because it eliminates carbon dioxide from the atmosphere", "Because it creates new species of plants"],
+        "correct": 1
+      },
+      {
+        "question": "How many main phases does photosynthesis have?",
+        "options": ["One", "Two", "Three", "Four"],
+        "correct": 1
+      },
+      {
+        "question": "The light-independent phase of photosynthesis is also known as:",
+        "options": ["Krebs cycle", "Calvin cycle", "Cell cycle", "Water cycle"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "tecnologia-medium-001",
+    "theme": "tecnologia",
+    "difficulty": "medium",
+    "title": "Quantum Computing: The Next Leap",
+    "source": "MIT Technology Review",
+    "content": "Quantum computing represents a radical change in how we process information. Unlike traditional computers, which use bits (0 or 1), quantum computers use qubits, which can exist in multiple states simultaneously thanks to the principle of quantum superposition.\n\nThis capability allows solving certain problems exponentially faster than the best current supercomputers. Practical applications include simulating molecules for drug discovery, optimizing complex supply chains, and breaking encryption systems.\n\nHowever, current quantum computers face significant challenges. Qubits are extremely sensitive to environmental interference, requiring temperatures near absolute zero. Additionally, quantum error correction remains a considerable technical obstacle.\n\nCompanies like Google, IBM, and various startups are competing to achieve practical 'quantum advantage', the point where a quantum computer can solve problems that classical computers simply cannot address.",
+    "questions": [
+      {
+        "question": "What is the fundamental difference between bits and qubits?",
+        "options": ["Qubits are faster", "Qubits can exist in multiple states simultaneously", "Bits are more precise", "Qubits use more energy"],
+        "correct": 1
+      },
+      {
+        "question": "Which of these is NOT mentioned as a practical application of quantum computing?",
+        "options": ["Molecule simulation", "Supply chain optimization", "Creating social networks", "Breaking encryption systems"],
+        "correct": 2
+      },
+      {
+        "question": "What temperature is generally required for qubits to function properly?",
+        "options": ["Room temperature", "Very high temperatures", "Temperatures near absolute zero", "Any temperature works"],
+        "correct": 2
+      },
+      {
+        "question": "What does 'quantum advantage' mean?",
+        "options": ["When a quantum computer is cheaper", "When a quantum computer solves problems classical computers cannot", "When a quantum computer uses less energy", "When a quantum computer is smaller"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, what is one of the main technical challenges of quantum computing?",
+        "options": ["Lack of practical applications", "Quantum error correction", "Excessive energy requirements", "Size of components"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "filosofia-hard-001",
+    "theme": "filosofia",
+    "difficulty": "hard",
+    "title": "Plato's Allegory of the Cave",
+    "source": "The Republic, Book VII",
+    "content": "Imagine an underground cave where, since childhood, human beings are chained in such a way that they cannot move their heads or eyes. Behind them, a fire burns, and between the fire and the prisoners there is an elevated path where people carry various objects.\n\nThe prisoners, never having seen anything else, believe that the shadows projected on the cave wall are reality. If one of them were freed and forced to look at the light, they would be dazzled and unable to see the real objects. It would be necessary to gradually accustom them: first to shadows, then to reflections in water, finally to objects themselves, and lastly, to the sun itself.\n\nIf that freed prisoner returned to the cave to tell the others what they saw, they would be ridiculed. The remaining prisoners, accustomed to the darkness, would not believe their words and would consider that freedom had damaged their sight.\n\nThis allegory illustrates the philosopher's journey: from ignorance (shadows) to knowledge (light), and the difficulty of communicating profound truths to those who have never experienced them. For Plato, education is precisely this conversion of the soul toward the light of truth.",
+    "questions": [
+      {
+        "question": "What do the shadows represent in the allegory of the cave?",
+        "options": ["True knowledge", "Ignorance and illusion", "Freedom", "Education"],
+        "correct": 1
+      },
+      {
+        "question": "According to Plato, what would happen to a freed prisoner upon seeing the light for the first time?",
+        "options": ["They would adapt immediately", "They would be dazzled and unable to see", "They would feel happy", "They would immediately return to the cave"],
+        "correct": 1
+      },
+      {
+        "question": "How would the other prisoners react if the freed one tried to tell them what they saw?",
+        "options": ["They would believe them", "They would be curious", "They would ridicule them", "They would ask to be freed"],
+        "correct": 2
+      },
+      {
+        "question": "In the allegory, what does the sun represent?",
+        "options": ["Ignorance", "Truth and supreme knowledge", "Political power", "Physical freedom"],
+        "correct": 1
+      },
+      {
+        "question": "What role does Plato attribute to education in this allegory?",
+        "options": ["Entertainment", "Social control", "Conversion of the soul toward truth", "Accumulation of knowledge"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "historia-easy-001",
+    "theme": "historia",
+    "difficulty": "easy",
+    "title": "The Carnation Revolution",
+    "source": "BBC History",
+    "content": "On April 25, 1974, Portugal experienced a revolution that changed the course of its history. Known as the Carnation Revolution, this military movement led to the end of nearly 50 years of dictatorship under the Estado Novo.\n\nIn the early hours of that day, soldiers from the Armed Forces Movement (MFA) occupied strategic points in Lisbon. The population took to the streets to support the soldiers, placing red carnations in the barrels of their rifles and on their uniforms, hence the name of the revolution.\n\nThe regime of Salazar and later Marcello Caetano had subjected Portugal to a conservative dictatorship, with censorship, political police (PIDE), and colonial wars in Africa. The revolution brought democracy, freedom of expression, and the end of the colonial empire.\n\nApril 25 is now a national holiday and is celebrated throughout the country with concerts, parades, and commemorations.",
+    "questions": [
+      {
+        "question": "In what year did the Carnation Revolution take place?",
+        "options": ["1964", "1974", "1984", "1994"],
+        "correct": 1
+      },
+      {
+        "question": "Why is it called the 'Carnation Revolution'?",
+        "options": ["Because it happened in spring", "Because people placed carnations in soldiers' rifles", "Because it was a peaceful revolution", "Because carnations were the symbol of the regime"],
+        "correct": 1
+      },
+      {
+        "question": "What was the Estado Novo?",
+        "options": ["A political party", "A dictatorship that ruled Portugal for nearly 50 years", "A military institution", "A cultural movement"],
+        "correct": 1
+      },
+      {
+        "question": "What did the revolution bring to Portugal?",
+        "options": ["More wars", "Democracy and freedom of expression", "A new king", "International isolation"],
+        "correct": 1
+      },
+      {
+        "question": "April 25 is now:",
+        "options": ["A normal day", "A national holiday", "Election day", "A day of mourning"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "livros-medium-001",
+    "theme": "livros",
+    "difficulty": "medium",
+    "title": "Excerpt: 'Pride and Prejudice' by Jane Austen",
+    "source": "Pride and Prejudice, Jane Austen (1813)",
+    "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.\n\nMr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three and twenty years had been insufficient to make his wife understand his character. Her mind was less difficult to develop. She was a woman of mean understanding, little information, and uncertain temper. When she was discontented, she fancied herself nervous. The business of her life was to get her daughters married; its solace was visiting and news.\n\nThe Bennet family lived at Longbourn, an estate that, due to the laws of entail, could only pass to a male heir. This meant that upon Mr. Bennet's death, the property would go to his cousin Mr. Collins, leaving his wife and five daughters without secure financial support. This reality added urgency to Mrs. Bennet's matrimonial pursuits.",
+    "questions": [
+      {
+        "question": "What is the 'truth universally acknowledged' mentioned at the beginning?",
+        "options": ["That all men are equal", "That a wealthy single man must be looking for a wife", "That women should be educated", "That marriage is outdated"],
+        "correct": 1
+      },
+      {
+        "question": "How does the narrator describe Mr. Bennet's character?",
+        "options": ["Simple and straightforward", "A mixture of quick parts, sarcastic humour, reserve, and caprice", "Boring and uninteresting", "Kind and generous"],
+        "correct": 1
+      },
+      {
+        "question": "What is the 'business of her life' for Mrs. Bennet?",
+        "options": ["Reading books", "Traveling abroad", "Getting her daughters married", "Managing the estate"],
+        "correct": 2
+      },
+      {
+        "question": "What problem does the entail law create for the Bennet family?",
+        "options": ["They must pay high taxes", "The estate can only pass to a male heir, leaving the daughters without financial security", "They cannot sell the property", "They must move to a smaller house"],
+        "correct": 1
+      },
+      {
+        "question": "Why is there urgency in Mrs. Bennet's matrimonial pursuits?",
+        "options": ["She dislikes her daughters", "She wants social status", "Her daughters will be left without financial support after Mr. Bennet's death", "She enjoys organizing weddings"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "economia-hard-001",
+    "theme": "economia",
+    "difficulty": "hard",
+    "title": "Game Theory and Nash Equilibrium",
+    "source": "Journal of Economic Perspectives",
+    "content": "Game theory is a branch of applied mathematics that studies strategic situations where agents make decisions that mutually affect their outcomes. Initially developed by John von Neumann and Oskar Morgenstern, it gained greater prominence through the work of John Nash, who introduced the concept of equilibrium that now bears his name.\n\nNash equilibrium describes a situation where no player has an incentive to change their strategy, given the strategies of the other players. It does not necessarily mean the best outcome for everyone, but rather a state of strategic stability.\n\nThe most famous example is the prisoner's dilemma: two suspects, interrogated separately, can cooperate with each other or betray one another. The Nash equilibrium in this game leads both to betray, even though cooperation would produce a better outcome for both.\n\nThis theory has vast applications, from economics and political science to evolutionary biology and artificial intelligence. However, critics point out that Nash equilibrium assumes perfect rationality, which is rarely found in actual human behavior.",
+    "questions": [
+      {
+        "question": "What does game theory study?",
+        "options": ["Board games", "Strategic situations where decisions mutually affect outcomes", "Only games of chance", "Probability theory"],
+        "correct": 1
+      },
+      {
+        "question": "What defines Nash equilibrium?",
+        "options": ["The best outcome for all players", "A situation where no player has an incentive to change their strategy", "The most fair outcome", "A situation where everyone wins equally"],
+        "correct": 1
+      },
+      {
+        "question": "In the prisoner's dilemma, what is the Nash equilibrium?",
+        "options": ["Both cooperate", "Both betray", "One cooperates and the other betrays", "Neither makes a decision"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, what is the main criticism of Nash equilibrium?",
+        "options": ["It's too simple", "It assumes perfect rationality, which is rarely found in human behavior", "It has no practical applications", "It was invented too long ago"],
+        "correct": 1
+      },
+      {
+        "question": "In which areas does game theory have applications, according to the text?",
+        "options": ["Only in economics", "Economics, political science, evolutionary biology, and artificial intelligence", "Only in pure mathematics", "Only in video games"],
+        "correct": 1
+      }
+    ]
+  }
+]
