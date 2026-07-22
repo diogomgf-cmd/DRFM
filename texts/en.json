@@ -35,6 +35,76 @@
     ]
   },
   {
+    "id": "ciencia-medium-001",
+    "theme": "ciencia",
+    "difficulty": "medium",
+    "title": "DNA and Heredity",
+    "source": "Scientific American",
+    "content": "DNA, or deoxyribonucleic acid, is the molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms. Its structure, discovered by James Watson and Francis Crick in 1953, is a double helix composed of two strands of nucleotides connected by hydrogen bonds between complementary base pairs: adenine with thymine, and cytosine with guanine.\n\nGenes are specific segments of DNA that encode the instructions for building proteins, which in turn determine physical traits and biochemical functions. Humans have approximately 20,000 to 25,000 genes distributed across 23 pairs of chromosomes located in the cell nucleus. Each person inherits one set of chromosomes from each parent, which explains why children share characteristics with both parents.\n\nMutations are changes in the DNA sequence that can occur due to errors during cell division or exposure to radiation and chemicals. While some mutations are harmful and can lead to diseases such as cancer, others are neutral or even beneficial, providing the raw material for evolution. This constant interplay between genetic stability and variation is what allows species to adapt to changing environments over millions of years.",
+    "questions": [
+      {
+        "question": "What is the structure of DNA?",
+        "options": ["A single strand", "A triple helix", "A double helix", "A flat sheet"],
+        "correct": 2
+      },
+      {
+        "question": "Which base pairs with adenine in DNA?",
+        "options": ["Cytosine", "Guanine", "Thymine", "Uracil"],
+        "correct": 2
+      },
+      {
+        "question": "What do genes encode instructions for building?",
+        "options": ["Carbohydrates", "Lipids", "Proteins", "Vitamins"],
+        "correct": 2
+      },
+      {
+        "question": "How many pairs of chromosomes do humans have?",
+        "options": ["13 pairs", "23 pairs", "46 pairs", "12 pairs"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, what role do mutations play in evolution?",
+        "options": ["They always cause death", "They provide raw material for adaptation", "They have no effect whatsoever", "They only occur in plants"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "ciencia-hard-001",
+    "theme": "ciencia",
+    "difficulty": "hard",
+    "title": "Quantum Mechanics and the Uncertainty Principle",
+    "source": "Physical Review Letters",
+    "content": "Quantum mechanics, developed in the early twentieth century by physicists such as Max Planck, Niels Bohr, Werner Heisenberg, and Erwin Schrödinger, fundamentally transformed our understanding of the physical world at the atomic and subatomic scales. Unlike classical mechanics, which describes deterministic trajectories, quantum theory reveals that particles such as electrons do not possess precisely defined positions or momenta until they are measured. Instead, they exist in superpositions of possible states described by mathematical wave functions.\n\nHeisenberg's Uncertainty Principle, formulated in 1927, states that it is impossible to simultaneously determine both the exact position and the exact momentum of a particle. This is not a limitation of measurement instruments but a fundamental property of nature: the more precisely one measures a particle's position, the less precisely one can know its momentum, and vice versa. Mathematically, the product of the uncertainties in position and momentum must always be greater than or equal to a fixed value related to Planck's constant.\n\nThe implications of this principle extend far beyond physics. In philosophy, it challenges the classical notion of determinism championed by Laplace, who imagined a super-intellect that could predict the entire future of the universe if it knew the precise state of every particle. The uncertainty principle demonstrates that such perfect knowledge is, in principle, unattainable. The act of measurement itself disturbs the system, intertwining the observer with the observed in a way that defies classical objectivity.\n\nQuantum mechanics has been spectacularly successful in predicting experimental outcomes, from the behavior of semiconductors to the emission spectra of atoms. Yet its interpretation remains deeply contested. The Copenhagen interpretation treats the wave function as a tool for calculating probabilities, while the Many-Worlds interpretation suggests that every quantum event spawns parallel realities. Despite nearly a century of debate, the fundamental nature of quantum reality remains one of the deepest mysteries in science.",
+    "questions": [
+      {
+        "question": "What does Heisenberg's Uncertainty Principle fundamentally state?",
+        "options": ["That all measurements are approximate due to faulty instruments", "That it is impossible to simultaneously know the exact position and momentum of a particle", "That particles always move at the speed of light", "That energy cannot be created or destroyed"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, the uncertainty in measurement is:",
+        "options": ["A technical problem that will be solved with better instruments", "Caused by human error", "A fundamental property of nature, not a limitation of instruments", "Only relevant at macroscopic scales"],
+        "correct": 2
+      },
+      {
+        "question": "How does the uncertainty principle challenge Laplace's determinism?",
+        "options": ["It proves that the universe is static", "It shows that perfect knowledge of all particle states is unattainable", "It confirms that the future is entirely predictable", "It demonstrates that classical mechanics works at all scales"],
+        "correct": 1
+      },
+      {
+        "question": "What does the Copenhagen interpretation propose about the wave function?",
+        "options": ["That it represents physical waves in space", "That it is a tool for calculating probabilities", "That it describes parallel universes", "That it is a permanent record of particle positions"],
+        "correct": 1
+      },
+      {
+        "question": "The Many-Worlds interpretation suggests that:",
+        "options": ["Quantum events create parallel realities", "There is only one universe", "Wave functions do not exist", "Measurements have no effect on systems"],
+        "correct": 0
+      }
+    ]
+  },
+  {
     "id": "tecnologia-medium-001",
     "theme": "tecnologia",
     "difficulty": "medium",
@@ -65,6 +135,76 @@
       {
         "question": "According to the text, what is one of the main technical challenges of quantum computing?",
         "options": ["Lack of practical applications", "Quantum error correction", "Excessive energy requirements", "Size of components"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "tecnologia-easy-001",
+    "theme": "tecnologia",
+    "difficulty": "easy",
+    "title": "What Is the Internet?",
+    "source": "HowStuffWorks",
+    "content": "The Internet is a global network that connects millions of computers around the world. It allows people to share information, send messages, watch videos, and access websites from virtually anywhere. The Internet began in the late 1960s as a project called ARPANET, created by the United States Department of Defense to ensure communication between research institutions even in the event of a nuclear attack.\n\nData on the Internet travels through a system of cables, routers, and servers. When you type a web address into your browser, your computer sends a request through your internet service provider to a server located somewhere in the world. That server then sends back the information you requested, which appears on your screen as a webpage. This entire process usually takes less than a second.\n\nThe most common way to communicate on the Internet is through email and messaging applications. Social networks like Facebook, Instagram, and Twitter have also become essential tools for staying in touch with friends and family. Streaming services like Netflix and Spotify allow users to watch movies and listen to music without downloading files.\n\nToday, the Internet is used by more than five billion people worldwide and has become an essential part of modern life, transforming the way we work, study, and socialize.",
+    "questions": [
+      {
+        "question": "What was the original name of the project that became the Internet?",
+        "options": ["Netscape", "ARPANET", "Microsoft", "WorldWideWeb"],
+        "correct": 1
+      },
+      {
+        "question": "What creates the request when you type a web address?",
+        "options": ["The server", "The router", "Your computer through your internet service provider", "The website itself"],
+        "correct": 2
+      },
+      {
+        "question": "How long does the process of loading a webpage usually take?",
+        "options": ["Several minutes", "About an hour", "Less than a second", "Exactly one minute"],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following is NOT mentioned as a way to communicate on the Internet?",
+        "options": ["Email", "Messaging applications", "Social networks", "Postal mail"],
+        "correct": 3
+      },
+      {
+        "question": "Approximately how many people use the Internet today?",
+        "options": ["One billion", "Three billion", "More than five billion", "Ten billion"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "tecnologia-hard-001",
+    "theme": "tecnologia",
+    "difficulty": "hard",
+    "title": "Blockchain and Cryptocurrencies",
+    "source": "Wired Magazine",
+    "content": "Blockchain is a distributed ledger technology that records transactions across a network of computers in a way that makes the recorded data extremely difficult to alter. Each block in the chain contains a set of verified transactions, a timestamp, and a cryptographic link to the previous block. This structure ensures that once a transaction is recorded and confirmed by the network, it cannot be retroactively changed without altering all subsequent blocks, which would require the consensus of the majority of the network.\n\nCryptocurrencies are digital assets that use blockchain technology to facilitate secure, peer-to-peer transactions without the need for intermediaries like banks. Bitcoin, created in 2009 by an anonymous person or group using the pseudonym Satoshi Nakamoto, was the first decentralized cryptocurrency. It introduced a mechanism called proof-of-work mining, in which participants called miners compete to solve complex mathematical puzzles to validate transactions and add new blocks to the chain, earning newly minted coins as a reward.\n\nBeyond simple currency transfers, blockchain technology has enabled the development of smart contracts, which are self-executing agreements with the terms of the contract directly written into code. Platforms like Ethereum have expanded the blockchain ecosystem by allowing developers to build decentralized applications on top of their blockchain infrastructure. These applications range from decentralized finance protocols that offer lending and borrowing without traditional banks to non-fungible tokens that represent ownership of unique digital assets.\n\nDespite its transformative potential, blockchain faces significant challenges. The energy consumption of proof-of-work mining has drawn criticism for its environmental impact. Regulatory uncertainty persists in many jurisdictions, as governments struggle to classify and tax digital assets. Additionally, the volatility of cryptocurrency prices and the prevalence of fraud and hacks in the ecosystem have raised concerns among traditional investors and regulators alike.",
+    "questions": [
+      {
+        "question": "What makes blockchain data difficult to alter?",
+        "options": ["It is stored on a single central server", "Each block is cryptographically linked to the previous one and requires network consensus to change", "It is protected by government encryption standards", "It uses physical paper records as backup"],
+        "correct": 1
+      },
+      {
+        "question": "What role do miners play in the Bitcoin network?",
+        "options": ["They regulate the price of Bitcoin", "They validate transactions and add new blocks to the chain by solving mathematical puzzles", "They serve as customer support for users", "They control the supply of Bitcoin"],
+        "correct": 1
+      },
+      {
+        "question": "What are smart contracts?",
+        "options": ["Legal documents stored on blockchain", "Self-executing agreements with terms written directly into code", "Contracts between governments and corporations", "Manual agreements verified by banks"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, what is one of the main criticisms of proof-of-work mining?",
+        "options": ["It is too slow", "It consumes too much energy", "It is not secure enough", "It requires too many miners"],
+        "correct": 1
+      },
+      {
+        "question": "What has Ethereum enabled beyond simple currency transfers?",
+        "options": ["Faster Bitcoin transactions", "Decentralized applications and smart contracts", "Government-controlled currencies", "Physical asset trading only"],
         "correct": 1
       }
     ]
@@ -105,6 +245,76 @@
     ]
   },
   {
+    "id": "filosofia-easy-001",
+    "theme": "filosofia",
+    "difficulty": "easy",
+    "title": "Socrates and the Pursuit of Knowledge",
+    "source": "Internet Encyclopedia of Philosophy",
+    "content": "Socrates was a Greek philosopher who lived in Athens from 470 to 399 BCE. He is considered one of the founders of Western philosophy, even though he never wrote any books. Everything we know about him comes from the writings of his students, especially Plato, and the historian Xenophon.\n\nSocrates believed that true wisdom begins with recognizing one's own ignorance. His famous phrase 'I know that I know nothing' captures this idea. He spent his days in the markets and streets of Athens questioning people about their beliefs, exposing contradictions in their thinking through a method now known as the Socratic method. This method involves asking a series of carefully crafted questions to help someone arrive at the truth on their own.\n\nHis relentless questioning made many powerful people uncomfortable. In 399 BCE, Socrates was put on trial, accused of corrupting the youth and impiety. He was sentenced to death by drinking hemlock, a poisonous plant. Rather than flee into exile, Socrates chose to accept the sentence, believing that a good citizen must obey the laws of the city even when they are unjust.\n\nSocrates' legacy endures because he showed that the examined life, one devoted to questioning and self-improvement, is the most worthy way to live. His influence on Plato, and through Plato on the entire Western philosophical tradition, cannot be overstated.",
+    "questions": [
+      {
+        "question": "How do we know about Socrates' ideas and teachings?",
+        "options": ["From books he wrote himself", "From the writings of his students, especially Plato", "From recordings found in Athens", "From Egyptian texts"],
+        "correct": 1
+      },
+      {
+        "question": "What does the phrase 'I know that I know nothing' express?",
+        "options": ["That Socrates was unintelligent", "That true wisdom begins with recognizing one's own ignorance", "That knowledge is impossible to attain", "That Socrates disliked learning"],
+        "correct": 1
+      },
+      {
+        "question": "What is the Socratic method?",
+        "options": ["A way of writing poetry", "A method of asking questions to help someone arrive at the truth", "A form of physical exercise", "A religious ritual"],
+        "correct": 1
+      },
+      {
+        "question": "Why was Socrates sentenced to death?",
+        "options": ["He stole from the city", "He was accused of corrupting the youth and impiety", "He led a military rebellion", "He refused to pay taxes"],
+        "correct": 1
+      },
+      {
+        "question": "Why did Socrates accept his death sentence instead of fleeing?",
+        "options": ["He was too old to run", "He believed a good citizen must obey the laws even when unjust", "His friends convinced him to stay", "He wanted to become famous"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "filosofia-medium-001",
+    "theme": "filosofia",
+    "difficulty": "medium",
+    "title": "Marcus Aurelius and Stoicism",
+    "source": "Stanford Encyclopedia of Philosophy",
+    "content": "Marcus Aurelius, who ruled the Roman Empire from 161 to 180 CE, is often remembered as the philosopher-king. Despite being the most powerful man in the world at the time, he devoted much of his life to the practice and study of Stoic philosophy. His private reflections, written in Greek while on military campaigns, survive today as the work known as Meditations, one of the most influential texts in the history of ethical thought.\n\nStoicism, founded in Athens by Zeno of Citium around 300 BCE, teaches that virtue, particularly wisdom, courage, justice, and temperance, is the only true good. External events such as wealth, health, and reputation are classified as 'indifferents' because they lie outside our direct control. The Stoic believes that suffering arises not from events themselves but from our judgments about those events. By disciplining our perceptions and aligning our will with the rational order of nature, we can achieve a state of inner tranquility regardless of circumstances.\n\nIn Meditations, Marcus Aurelius repeatedly reminds himself of these principles. He writes about the impermanence of fame and fortune, the importance of acting justly toward others, and the need to accept what cannot be changed. He does not write as a distant theorist but as a struggling practitioner, wrestling with the same anxieties and frustrations that anyone might feel when confronted with illness, betrayal, or the burden of responsibility.\n\nThe relevance of Stoicism has surged in modern times. Cognitive behavioral therapy draws directly on the Stoic insight that our emotions are shaped by our beliefs. Many people today turn to Marcus Aurelius not for abstract metaphysics but for practical guidance on how to live with resilience and integrity in a chaotic world.",
+    "questions": [
+      {
+        "question": "What is the central claim of Stoicism regarding what is truly good?",
+        "options": ["Wealth and power", "Pleasure and comfort", "Virtue, especially wisdom, courage, justice, and temperance", "Fame and reputation"],
+        "correct": 2
+      },
+      {
+        "question": "According to Stoicism, what is the source of human suffering?",
+        "options": ["External events themselves", "Our judgments about external events", "Other people's actions", "Physical illness"],
+        "correct": 1
+      },
+      {
+        "question": "How does Marcus Aurelius write in Meditations?",
+        "options": ["As a formal academic treatise", "As private reflections and personal reminders", "As a fictional story", "As a political manifesto"],
+        "correct": 1
+      },
+      {
+        "question": "What modern practice draws directly on Stoic ideas?",
+        "options": ["Psychoanalysis", "Cognitive behavioral therapy", "Behavioral economics", "Mindfulness meditation only"],
+        "correct": 1
+      },
+      {
+        "question": "Why has Stoicism become relevant again in modern times, according to the text?",
+        "options": ["Because it offers abstract metaphysical theories", "Because it provides practical guidance on resilience and integrity", "Because it was rediscovered in ancient manuscripts", "Because it was promoted by politicians"],
+        "correct": 1
+      }
+    ]
+  },
+  {
     "id": "historia-easy-001",
     "theme": "historia",
     "difficulty": "easy",
@@ -135,6 +345,76 @@
       {
         "question": "April 25 is now:",
         "options": ["A normal day", "A national holiday", "Election day", "A day of mourning"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "historia-medium-001",
+    "theme": "historia",
+    "difficulty": "medium",
+    "title": "World War I: The War That Changed Everything",
+    "source": "Imperial War Museums",
+    "content": "World War I, which lasted from 1914 to 1918, was one of the most devastating conflicts in human history. The immediate trigger was the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo on June 28, 1914, by a Serbian nationalist. This event set off a chain reaction of alliances: Austria-Hungary declared war on Serbia, Russia mobilized to support Serbia, Germany declared war on Russia and France, and Britain entered the war when Germany invaded Belgium.\n\nThe war was fought primarily in trenches along the Western Front, a line stretching from the English Channel to the Swiss border. Soldiers endured horrific conditions: mud, rats, disease, and constant artillery fire. New weapons such as machine guns, poison gas, and tanks made the war far more lethal than any previous conflict. Battles like Verdun and the Somme resulted in hundreds of thousands of casualties with little territorial gain.\n\nThe war also had a global dimension. Fighting took place in the Middle East, Africa, and the seas. The entry of the United States in 1917 tipped the balance in favor of the Allies. The armistice signed on November 11, 1918, ended the fighting, but the Treaty of Versailles that followed imposed harsh reparations on Germany, sowing the seeds for future conflict.\n\nThe consequences of World War I were profound. Four empires collapsed: the Austro-Hungarian, Ottoman, Russian, and German. The map of Europe was redrawn, and the League of Nations was created to prevent future wars. However, the unresolved tensions and economic devastation of the war directly contributed to the rise of fascism and the outbreak of World War II just two decades later.",
+    "questions": [
+      {
+        "question": "What event triggered the start of World War I?",
+        "options": ["The invasion of Poland", "The assassination of Archduke Franz Ferdinand", "The bombing of Pearl Harbor", "The signing of the Treaty of Versailles"],
+        "correct": 1
+      },
+      {
+        "question": "What characterized the fighting on the Western Front?",
+        "options": ["Fast-moving cavalry charges", "Trench warfare with horrific conditions and new weapons", "Naval battles only", "Aerial combat"],
+        "correct": 1
+      },
+      {
+        "question": "Which country's entry in 1917 tipped the balance in favor of the Allies?",
+        "options": ["Italy", "Japan", "The United States", "Brazil"],
+        "correct": 2
+      },
+      {
+        "question": "What was the Treaty of Versailles?",
+        "options": ["A peace agreement that imposed harsh reparations on Germany", "An alliance between European powers", "A declaration of war", "A trade agreement"],
+        "correct": 0
+      },
+      {
+        "question": "According to the text, how did World War I contribute to World War II?",
+        "options": ["It had no connection to World War II", "Unresolved tensions and economic devastation directly contributed to the rise of fascism", "It made Europe too strong", "It eliminated all military technology"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "historia-hard-001",
+    "theme": "historia",
+    "difficulty": "hard",
+    "title": "The French Revolution: Liberty, Equality, Fraternity",
+    "source": "French Historical Review",
+    "content": "The French Revolution, which began in 1789, was a transformative upheaval that dismantled the absolute monarchy and feudal privileges that had structured French society for centuries. The roots of the revolution lay in a complex convergence of factors: a severe financial crisis exacerbated by costly wars and an inequitable tax system, widespread famine among the peasantry, and the influence of Enlightenment ideas that challenged the divine right of kings and championed reason, individual rights, and popular sovereignty.\n\nThe Estates-General, convened in May 1789 to address the financial crisis, quickly became a stage for revolutionary fervor. The Third Estate, representing the common people, broke away to form the National Assembly, signaling a shift of political power from the aristocracy to the populace. The storming of the Bastille on July 14, 1789, an event now celebrated as France's national day, became the iconic symbol of the people's defiance against tyranny. The Declaration of the Rights of Man and of the Citizen, adopted in August, articulated principles of liberty, equality, and resistance to oppression that resonated far beyond France's borders.\n\nHowever, the revolution's trajectory was far from smooth. The radical Jacobins, led by figures such as Robespierre, seized control during the Reign of Terror from 1793 to 1794, executing thousands of perceived enemies of the revolution, including King Louis XVI and Queen Marie Antoinette. The guillotine became the grim instrument of a regime that claimed to champion freedom while dispensing with due process. After Robespierre's own execution in July 1794, the moderate Directory took power, but its instability paved the way for Napoleon Bonaparte's coup in 1799.\n\nThe legacy of the French Revolution is immense and contested. It inspired democratic movements across Europe and the Americas, and its slogans of liberty, equality, and fraternity remain embedded in the French national identity. Yet it also demonstrated how revolutionary ideals can devolve into authoritarianism when ideological purity is pursued at the expense of pluralism and human rights. The tension between these two aspects continues to shape debates about democracy, revolution, and the nature of political change.",
+    "questions": [
+      {
+        "question": "Which of the following was NOT a factor leading to the French Revolution?",
+        "options": ["A severe financial crisis", "Widespread famine among the peasantry", "The influence of Enlightenment ideas", "A strong and stable economy"],
+        "correct": 3
+      },
+      {
+        "question": "What was the significance of the Third Estate breaking away to form the National Assembly?",
+        "options": ["It ended the revolution immediately", "It signaled a shift of political power from the aristocracy to the populace", "It restored power to the king", "It created a new monarchy"],
+        "correct": 1
+      },
+      {
+        "question": "What characterized the Reign of Terror?",
+        "options": ["A period of peaceful reform", "The execution of thousands of perceived enemies of the revolution, including the king and queen", "The restoration of feudal privileges", "The establishment of a constitutional monarchy"],
+        "correct": 1
+      },
+      {
+        "question": "How did Napoleon Bonaparte come to power?",
+        "options": ["He was elected by popular vote", "He led a coup in 1799 after the instability of the Directory", "He inherited the throne", "He was appointed by the king"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, what tension does the legacy of the French Revolution demonstrate?",
+        "options": ["Between monarchy and republic", "Between revolutionary ideals and the potential for authoritarianism when ideological purity is pursued", "Between France and England", "Between the rich and the poor only"],
         "correct": 1
       }
     ]
@@ -175,6 +455,76 @@
     ]
   },
   {
+    "id": "livros-easy-001",
+    "theme": "livros",
+    "difficulty": "easy",
+    "title": "Don Quixote by Cervantes",
+    "source": "Penguin Classics",
+    "content": "Don Quixote is a novel written by the Spanish author Miguel de Cervantes and published in two parts, in 1605 and 1615. It is widely considered the first modern novel and one of the greatest works of world literature. The story follows the adventures of a minor noble named Alonso Quixano, who reads so many chivalric romances that he loses his sanity and decides to become a knight-errant, renaming himself Don Quixote de la Mancha.\n\nDon Quixote sets out on his aging horse, Rocinante, accompanied by his loyal squire, Sancho Panza, a simple peasant who serves as a comic foil to his master's grandiose delusions. Throughout the novel, Don Quixote mistakes windmills for giants, inns for castles, and peasant girls for noble ladies. His faithful companion Sancho tries to bring him back to reality, but Quixote's unwavering idealism always prevails.\n\nDespite its humor and absurdity, Don Quixote is also a deeply moving exploration of the conflict between idealism and reality. Cervantes uses the character of Quixote to examine the power of imagination, the nature of madness, and the human need to find meaning in a world that often seems indifferent. The novel's influence on Western literature is immense, and the word 'quixotic' has entered the English language to describe someone who is idealistic to the point of being impractical.",
+    "questions": [
+      {
+        "question": "Who wrote Don Quixote?",
+        "options": ["William Shakespeare", "Miguel de Cervantes", "Gabriel Garcia Marquez", "James Joyce"],
+        "correct": 1
+      },
+      {
+        "question": "Why does Alonso Quixano become Don Quixote?",
+        "options": ["He wants to become rich", "He reads so many chivalric romances that he loses his sanity", "He is forced by his family", "He wants to travel the world"],
+        "correct": 1
+      },
+      {
+        "question": "Who is Sancho Panza?",
+        "options": ["Don Quixote's enemy", "A giant Don Quixote fights", "Don Quixote's loyal squire, a simple peasant", "The king of Spain"],
+        "correct": 2
+      },
+      {
+        "question": "What does Don Quixote mistake windmills for?",
+        "options": ["Castles", "Giants", "Horses", "Soldiers"],
+        "correct": 1
+      },
+      {
+        "question": "What has the word 'quixotic' come to mean in English?",
+        "options": ["Evil and cruel", "Idealistic to the point of being impractical", "Very wealthy", "Extremely lazy"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "livros-hard-001",
+    "theme": "livros",
+    "difficulty": "hard",
+    "title": "Ulysses by James Joyce",
+    "source": "The Cambridge Companion to James Joyce",
+    "content": "Ulysses, published in 1922 by the Irish writer James Joyce, is widely regarded as one of the most important and challenging works of modernist literature. The novel chronicles a single day, June 16, 1904, in the lives of its three main characters: Leopold Bloom, a middle-aged advertising canvasser; his wife Molly Bloom, a concert singer; and Stephen Dedalus, a young aspiring writer. Each of the novel's eighteen episodes corresponds loosely to an episode in Homer's Odyssey, transposing the ancient hero's wanderings onto the ordinary streets of Dublin.\n\nJoyce's technical innovations in Ulysses are extraordinary. Each chapter employs a different narrative style, ranging from straightforward realism to newspaper headline format, from a catechism of questions and answers to a stream-of-consciousness monologue that attempts to capture the unfiltered flow of human thought. The final chapter, Molly Bloom's soliloquy, consists of eight enormous sentences with almost no punctuation, a tour de force that plunges the reader directly into the subjective experience of a consciousness in motion.\n\nThe novel's difficulty has become legendary. Joyce himself said that he had put so many enigmas and puzzles into Ulysses that it would keep professors busy for centuries arguing over what he meant. The text is saturated with allusions to literature, history, theology, music, and popular culture, often encoded in wordplay and multilingual puns. Yet beneath the experimental surface lies a deeply human story about marriage, fidelity, grief, identity, and the quiet heroism of everyday life.\n\nUlysses was immediately banned in the United States and the United Kingdom for its perceived obscenity, and it was not until 1933 that a federal judge lifted the ban in the United States. Today, June 16 is celebrated worldwide as Bloomsday, with readings, performances, and reenactments honoring the day the novel depicts. The novel's influence on subsequent literature is immeasurable, and it remains a touchstone for writers who seek to expand the boundaries of what fiction can do.",
+    "questions": [
+      {
+        "question": "What is the temporal scope of Ulysses?",
+        "options": ["An entire year", "A single day, June 16, 1904", "A decade in Dublin", "The course of a human lifetime"],
+        "correct": 1
+      },
+      {
+        "question": "How does Ulysses relate to Homer's Odyssey?",
+        "options": ["It is a direct translation", "Each episode corresponds loosely to an episode in the Odyssey, transposed to Dublin", "It has no connection to the Odyssey", "It is a sequel to the Odyssey"],
+        "correct": 1
+      },
+      {
+        "question": "What is notable about the final chapter, Molly Bloom's soliloquy?",
+        "options": ["It is written in verse", "It consists of eight enormous sentences with almost no punctuation", "It is the shortest chapter", "It is written in the third person"],
+        "correct": 1
+      },
+      {
+        "question": "Why was Ulysses initially banned in the United States and the United Kingdom?",
+        "options": ["For political reasons", "For its perceived obscenity", "Because it was too short", "Because it criticized the government"],
+        "correct": 1
+      },
+      {
+        "question": "What is Bloomsday?",
+        "options": ["A holiday honoring James Joyce's birthday", "A worldwide celebration on June 16 with readings and reenactments honoring the day the novel depicts", "A literary award given annually", "The day Ulysses was first published"],
+        "correct": 1
+      }
+    ]
+  },
+  {
     "id": "economia-hard-001",
     "theme": "economia",
     "difficulty": "hard",
@@ -205,6 +555,286 @@
       {
         "question": "In which areas does game theory have applications, according to the text?",
         "options": ["Only in economics", "Economics, political science, evolutionary biology, and artificial intelligence", "Only in pure mathematics", "Only in video games"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "economia-easy-001",
+    "theme": "economia",
+    "difficulty": "easy",
+    "title": "Supply and Demand",
+    "source": "Economics 101",
+    "content": "Supply and demand are the two most fundamental concepts in economics. They describe how prices and quantities of goods and services are determined in a market. Demand refers to how much of a product or service consumers are willing and able to buy at various prices. As a general rule, when the price of something goes up, people buy less of it, and when the price goes down, people buy more.\n\nSupply refers to how much of a product or service producers are willing and able to offer for sale at various prices. When prices are high, producers want to sell more because they can earn greater profits. When prices are low, they produce less because it is less profitable.\n\nThe point where supply and demand meet is called the equilibrium price. At this price, the amount that consumers want to buy equals the amount that producers want to sell. If the price is above equilibrium, there is a surplus, and sellers must lower prices to attract buyers. If the price is below equilibrium, there is a shortage, and sellers can raise prices.\n\nThis simple model explains many everyday phenomena. When a new smartphone is released and demand is high but supply is limited, prices stay high. When a bumper harvest produces more wheat than people want to buy, wheat prices fall. Understanding supply and demand helps us make sense of everything from grocery store prices to housing markets.",
+    "questions": [
+      {
+        "question": "What does demand refer to?",
+        "options": ["How much producers want to sell", "How much consumers are willing and able to buy at various prices", "The total amount of money in the economy", "The number of stores selling a product"],
+        "correct": 1
+      },
+      {
+        "question": "What generally happens when the price of a product goes up?",
+        "options": ["People buy more of it", "People buy less of it", "Production stops", "The product disappears"],
+        "correct": 1
+      },
+      {
+        "question": "What is the equilibrium price?",
+        "options": ["The highest price a product can reach", "The price where supply equals demand", "The lowest price a product can reach", "The price set by the government"],
+        "correct": 1
+      },
+      {
+        "question": "What happens when there is a surplus of a product?",
+        "options": ["Sellers raise prices", "Sellers must lower prices to attract buyers", "The product is destroyed", "Demand increases automatically"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, why do smartphone prices stay high when a new model is released?",
+        "options": ["Because the government sets the price", "Because demand is high but supply is limited", "Because production costs are low", "Because no one wants to buy them"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "economia-medium-001",
+    "theme": "economia",
+    "difficulty": "medium",
+    "title": "Inflation and Purchasing Power",
+    "source": "The Economist",
+    "content": "Inflation is the sustained increase in the general price level of goods and services in an economy over time. When prices rise, each unit of currency buys fewer goods and services, meaning that inflation erodes purchasing power. A moderate level of inflation is generally considered normal and even healthy for a growing economy, but high or unpredictable inflation can cause serious economic damage.\n\nThere are several causes of inflation. Demand-pull inflation occurs when aggregate demand outpaces aggregate supply, often during periods of strong economic growth. Cost-push inflation happens when the costs of production, such as wages or raw materials, increase and producers pass those costs on to consumers in the form of higher prices. Monetary inflation results from an excessive expansion of the money supply, a phenomenon famously associated with episodes of hyperinflation in countries like Germany in the 1920s and Zimbabwe in the 2000s.\n\nThe impact of inflation is not felt equally across society. People on fixed incomes, such as retirees, are particularly vulnerable because their earnings do not automatically adjust to keep pace with rising prices. Savers also lose, as the real value of their savings diminishes over time. Conversely, borrowers can benefit from inflation, since they repay loans with money that is worth less than when they borrowed it.\n\nCentral banks, such as the Federal Reserve in the United States and the European Central Bank, are typically responsible for managing inflation. They use monetary policy tools, primarily the adjustment of interest rates, to keep inflation within a target range. When inflation is too high, central banks raise interest rates to cool down borrowing and spending. When inflation is too low or deflation threatens, they lower rates to stimulate economic activity.",
+    "questions": [
+      {
+        "question": "What is inflation?",
+        "options": ["A decrease in prices over time", "A sustained increase in the general price level of goods and services", "A rise in wages only", "A reduction in the money supply"],
+        "correct": 1
+      },
+      {
+        "question": "What is demand-pull inflation?",
+        "options": ["When production costs increase", "When aggregate demand outpaces aggregate supply", "When the government prints too much money", "When wages decrease"],
+        "correct": 1
+      },
+      {
+        "question": "Who is particularly vulnerable to inflation, according to the text?",
+        "options": ["Young workers", "People on fixed incomes, such as retirees", "Borrowers", "Large corporations"],
+        "correct": 1
+      },
+      {
+        "question": "Why can borrowers benefit from inflation?",
+        "options": ["Because interest rates drop to zero", "Because they repay loans with money that is worth less than when they borrowed it", "Because their debts are forgiven", "Because banks give them additional money"],
+        "correct": 1
+      },
+      {
+        "question": "What do central banks do when inflation is too high?",
+        "options": ["They lower interest rates to stimulate spending", "They raise interest rates to cool down borrowing and spending", "They print more money", "They increase government spending"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "literatura-easy-001",
+    "theme": "literatura",
+    "difficulty": "easy",
+    "title": "Fernando Pessoa and His Heteronyms",
+    "source": "Portuguese Literature Review",
+    "content": "Fernando Pessoa (1888-1935) is one of the most important poets in the Portuguese language and a central figure in modernist literature. Born in Lisbon, he spent part of his childhood in South Africa, which gave him a unique bilingual and bicultural perspective. Despite his enormous talent, Pessoa published very few works during his lifetime. Most of his writing was discovered after his death in thousands of pages stored in a trunk, now known as the 'Pessoa archive.'\n\nWhat makes Pessoa truly unique is his use of heteronyms. Unlike pseudonyms, which are simply false names used by the same author, Pessoa's heteronyms were fully developed literary personalities with their own biographies, physical characteristics, philosophical views, and distinct writing styles. He once said that his heteronyms were not merely literary masks but genuine alternatives to his own self.\n\nThe three most important heteronyms are Alberto Caeiro, Ricardo Reis, and Álvaro de Campos. Caeiro was a self-taught poet who rejected metaphysics and celebrated the pure, unmediated experience of nature. Reis was a classical scholar who wrote odes in Horatian style, advocating a disciplined acceptance of fate. Campos was an exuberant naval engineer whose poetry ranged from frenetic celebrations of modernity to deeply melancholic reflections on loneliness and identity.\n\nPessoa's work continues to fascinate readers and scholars around the world. His exploration of the fragmented self, his mastery of multiple poetic voices, and his deep questioning of identity make him one of the most modern and relevant writers of the twentieth century.",
+    "questions": [
+      {
+        "question": "When did Fernando Pessoa live?",
+        "options": ["1788-1835", "1888-1935", "1988-present", "1700-1750"],
+        "correct": 1
+      },
+      {
+        "question": "What makes Pessoa's heteronyms unique?",
+        "options": ["They were just pen names he used to hide his identity", "They were fully developed literary personalities with their own biographies and writing styles", "They were names of his friends", "They were characters from other authors' books"],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following is NOT one of Pessoa's three main heteronyms?",
+        "options": ["Alberto Caeiro", "Ricardo Reis", "Álvaro de Campos", "Bernardo Soares"],
+        "correct": 3
+      },
+      {
+        "question": "What was Alberto Caeiro's poetic approach?",
+        "options": ["He celebrated modern technology", "He rejected metaphysics and celebrated the pure experience of nature", "He wrote in classical Horatian style", "He focused on political themes"],
+        "correct": 1
+      },
+      {
+        "question": "Where was most of Pessoa's writing found after his death?",
+        "options": ["In published books", "In a trunk containing thousands of pages", "In a library in South Africa", "In a newspaper archive"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "literatura-medium-001",
+    "theme": "literatura",
+    "difficulty": "medium",
+    "title": "The Magical Realism of Gabriel García Márquez",
+    "source": "Latin American Literary Review",
+    "content": "Gabriel García Márquez (1927-2014) was a Colombian novelist, short story writer, and journalist who became one of the most significant authors of the twentieth century. He was awarded the Nobel Prize in Literature in 1982, largely on the strength of his masterpiece One Hundred Years of Solitude, published in 1967. García Márquez is widely regarded as the father of magical realism, a literary movement that blends the ordinary with the extraordinary in a way that challenges the boundaries between reality and fantasy.\n\nMagical realism is not simply fantasy. In García Márquez's work, supernatural events are presented as mundane and unremarkable, accepted by characters without surprise or explanation. A woman ascends to heaven while hanging laundry; a rain of yellow flowers falls from the sky; a man lives for over two hundred years. These events are narrated with the same matter-of-fact tone used to describe everyday occurrences, creating a narrative world where the miraculous is woven seamlessly into the fabric of daily life.\n\nOne Hundred Years of Solitude tells the story of the Buendía family across seven generations in the fictional town of Macondo, a place inspired by García Márquez's own childhood hometown of Aracataca. Through the Buendías' cyclical history of love, war, ambition, and solitude, García Márquez explores broader themes of Latin American identity, the legacy of colonialism, and the repeating patterns of history. The novel's structure, in which events seem to recur in slightly different forms, suggests that time is not linear but circular.\n\nGarcía Márquez's influence on world literature is immense. Writers from Salman Rushdie to Isabel Allende have drawn inspiration from his technique of blending the political with the poetic, the historical with the mythical. His work demonstrates that fiction can capture truths about the human condition that realistic narratives alone cannot reach.",
+    "questions": [
+      {
+        "question": "What is magical realism, as described in the text?",
+        "options": ["A genre of pure fantasy with magical creatures", "A literary movement that blends the ordinary with the extraordinary, presenting supernatural events as mundane", "A form of science fiction", "A type of horror literature"],
+        "correct": 1
+      },
+      {
+        "question": "What is One Hundred Years of Solitude about?",
+        "options": ["A single character's journey through Europe", "The Buendía family across seven generations in the fictional town of Macondo", "A historical account of Colombian independence", "A love story set in modern Bogotá"],
+        "correct": 1
+      },
+      {
+        "question": "How does García Márquez present supernatural events in his work?",
+        "options": ["With shock and horror", "As mundane and unremarkable, accepted by characters without surprise", "As dreams or hallucinations", "As scientific experiments"],
+        "correct": 1
+      },
+      {
+        "question": "What does the cyclical structure of One Hundred Years of Solitude suggest?",
+        "options": ["That time is linear and progressive", "That time is circular and events recur in slightly different forms", "That history is unimportant", "That all families are the same"],
+        "correct": 1
+      },
+      {
+        "question": "Why was García Márquez awarded the Nobel Prize in Literature?",
+        "options": ["For his journalism", "Largely on the strength of One Hundred Years of Solitude", "For his poetry", "For his political activism"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "literatura-hard-001",
+    "theme": "literatura",
+    "difficulty": "hard",
+    "title": "James Joyce's Modernism and the Stream of Consciousness",
+    "source": "The Johns Hopkins Guide to Literary Theory",
+    "content": "James Joyce (1882-1941) stands as one of the most revolutionary figures in modernist literature, a movement that sought to break decisively with the conventions of nineteenth-century realism. Born in Dublin, Joyce spent most of his adult life in self-imposed exile on the European continent, yet his fiction remains obsessively anchored to the streets, people, and Catholic culture of his native city. His major works, Dubliners, A Portrait of the Artist as a Young Man, Ulysses, and Finnegans Wake, represent an escalating series of formal experiments that progressively dismantled the traditional novel.\n\nJoyce's most celebrated innovation is the stream-of-consciousness technique, though the term itself was coined by the psychologist William James. In Joyce's hands, this method attempts to replicate the unfiltered, associative, and often chaotic flow of human thought as it actually occurs, prior to the ordering logic of narrative convention. Rather than presenting characters' thoughts as neat, grammatically polished sentences, Joyce captures the raw texture of consciousness: sensory impressions, half-formed desires, remembered phrases, sudden interruptions, and the constant interplay between present perception and past memory.\n\nThis technique reaches its apogee in the final chapter of Ulysses, where Molly Bloom's monologue unfolds in eight enormous sentences with almost no punctuation. The effect is immersive and disorienting: the reader is plunged directly into the subjective experience of a mind in motion, forced to navigate the same associative leaps and emotional shifts that the character undergoes. Joyce believed that this fidelity to the actual texture of thought was more truthful than the neatly plotted narratives of conventional fiction, which impose an artificial coherence on the messy reality of lived experience.\n\nJoyce's later work, Finnegans Wake, pushes linguistic experimentation to its limit. Written in a dense, polyglot idiom built from portmanteau words, multilingual puns, and cyclical structures, the Wake resists straightforward reading and demands that the reader participate actively in constructing meaning. It is a book about the nature of language itself, suggesting that meaning is never fixed but always in a state of flux, shaped by the interplay of sounds, associations, and cultural histories. Joyce's legacy is thus not merely a set of technical achievements but a fundamental rethinking of what literature can be and how it relates to the complexities of human consciousness.",
+    "questions": [
+      {
+        "question": "What is the stream-of-consciousness technique in Joyce's work?",
+        "options": ["A method of plotting stories chronologically", "A method that attempts to replicate the unfiltered, associative flow of human thought", "A technique for writing dialogue", "A way of describing landscapes"],
+        "correct": 1
+      },
+      {
+        "question": "According to Joyce, why is the stream-of-consciousness technique more truthful than conventional narrative?",
+        "options": ["Because it is easier to read", "Because it captures the actual texture of thought rather than imposing artificial coherence", "Because it uses simpler language", "Because it focuses on action rather than thought"],
+        "correct": 1
+      },
+      {
+        "question": "What makes Finnegans Wake particularly challenging?",
+        "options": ["Its simple plot structure", "Its dense, polyglot idiom built from portmanteau words and multilingual puns", "Its short length", "Its use of only one language"],
+        "correct": 1
+      },
+      {
+        "question": "What does Finnegans Wake suggest about the nature of language?",
+        "options": ["That meaning is always fixed and stable", "That meaning is never fixed but always in flux, shaped by sounds, associations, and cultural histories", "That language should be simple and direct", "That only one language can express truth"],
+        "correct": 1
+      },
+      {
+        "question": "Despite living in exile, what remained central to Joyce's fiction?",
+        "options": ["Parisian culture", "The streets, people, and Catholic culture of Dublin", "American politics", "Ancient Greek mythology exclusively"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "artes-easy-001",
+    "theme": "artes",
+    "difficulty": "easy",
+    "title": "The Italian Renaissance",
+    "source": "Metropolitan Museum of Art",
+    "content": "The Italian Renaissance was a cultural and artistic movement that began in Italy in the 14th century and lasted until the 17th century. The word 'renaissance' means 'rebirth,' and the movement was characterized by a renewed interest in the classical art, literature, and philosophy of ancient Greece and Rome. It began in the city of Florence and gradually spread to other Italian cities such as Rome, Venice, and Milan.\n\nThe Renaissance produced some of the most famous artists in history. Leonardo da Vinci was a painter, scientist, and inventor best known for works like the Mona Lisa and The Last Supper. Michelangelo was a sculptor, painter, and architect who created the statue of David and painted the ceiling of the Sistine Chapel in Rome. Raphael, another great master, painted The School of Athens, a fresco that celebrates the great philosophers of antiquity.\n\nRenaissance artists developed new techniques that made their work more realistic. They used perspective, a mathematical system for creating the illusion of depth on a flat surface. They also studied human anatomy to paint and sculpt the body more accurately. Light and shadow were used to give figures volume and three-dimensionality.\n\nThe Renaissance was not only about art. It was a time of great intellectual and scientific discovery. Thinkers began to question traditional authorities and to place greater value on human reason and individual achievement. This shift in thinking, known as humanism, laid the groundwork for the modern world.",
+    "questions": [
+      {
+        "question": "What does the word 'renaissance' mean?",
+        "options": ["Revolution", "Rebirth", "Reform", "Religion"],
+        "correct": 1
+      },
+      {
+        "question": "Where did the Renaissance begin?",
+        "options": ["Rome", "Venice", "Florence", "Milan"],
+        "correct": 2
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+        "correct": 2
+      },
+      {
+        "question": "What technique did Renaissance artists use to create the illusion of depth?",
+        "options": ["Abstraction", "Perspective", "Collage", "Pointillism"],
+        "correct": 1
+      },
+      {
+        "question": "What is humanism?",
+        "options": ["A religious movement", "A shift in thinking that placed greater value on human reason and individual achievement", "A style of painting", "A form of government"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "artes-medium-001",
+    "theme": "artes",
+    "difficulty": "medium",
+    "title": "Monet and Impressionism",
+    "source": "Musée d'Orsay",
+    "content": "Impressionism was an art movement that emerged in France in the 1860s and 1870s, fundamentally changing the course of Western painting. The movement got its name from a painting by Claude Monet called Impression, Sunrise, exhibited in 1874. A critic used the title mockingly to suggest that the Impressionists' work was unfinished and lacking in detail, but the artists embraced the label and it stuck.\n\nImpressionist painters rejected the formal, academic style that dominated the French art world at the time. Instead of painting historical or mythological scenes in dark studios, they chose to paint modern life and the natural world outdoors, directly from nature. They were fascinated by the way light and atmosphere changed from moment to moment, and they developed a technique of applying paint in small, visible brushstrokes to capture these fleeting effects. From a distance, these individual strokes blend together in the viewer's eye to form a coherent image; up close, the painting dissolves into an abstract pattern of color and light.\n\nMonet, born in 1840, was the most dedicated and prolific of the Impressionists. Throughout his career, he pursued the same subjects under different conditions of light and weather, creating series of paintings that explored the subtle variations of perception. His haystacks, poplars, and Rouen Cathedral paintings each consist of dozens of canvases showing the same subject at different times of day and in different seasons. In his later years, he devoted himself almost entirely to his Water Lilies series, a monumental cycle of approximately 250 paintings depicting the pond in his garden at Giverny.\n\nThe Water Lilies are more than simple studies of nature. They are immersive, almost abstract environments that dissolve the boundary between subject and atmosphere. The late canvases, painted as Monet's eyesight deteriorated, feature increasingly loose brushwork and bold color that anticipates the abstract expressionism of the mid-twentieth century. Monet's work demonstrates that Impressionism was not merely a style but a way of seeing, one that privileged the immediate sensory experience over inherited conventions of representation.",
+    "questions": [
+      {
+        "question": "How did the Impressionist movement get its name?",
+        "options": ["From a manifesto signed by the artists", "From Monet's painting Impression, Sunrise, which a critic used mockingly", "From a gallery exhibition title", "From a French art academy"],
+        "correct": 1
+      },
+      {
+        "question": "What technique did Impressionist painters use to capture light effects?",
+        "options": ["Large, smooth brushstrokes", "Small, visible brushstrokes that blend from a distance", "Photographic realism", "Only black and white"],
+        "correct": 1
+      },
+      {
+        "question": "What is notable about Monet's series paintings (haystacks, poplars, Rouen Cathedral)?",
+        "options": ["They are all the same size", "They show the same subject under different conditions of light and weather", "They were never exhibited", "They were painted in a single day"],
+        "correct": 1
+      },
+      {
+        "question": "How many paintings approximately make up Monet's Water Lilies series?",
+        "options": ["About 50", "About 100", "Approximately 250", "Over 1,000"],
+        "correct": 2
+      },
+      {
+        "question": "According to the text, what does Monet's late work anticipate?",
+        "options": ["Neoclassicism", "Abstract expressionism", "Photography", "Medieval art"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "artes-hard-001",
+    "theme": "artes",
+    "difficulty": "hard",
+    "title": "Conceptual Art and Duchamp's Ready-Mades",
+    "source": "Artforum International",
+    "content": "Conceptual art is a movement that emerged in the 1960s and 1970s, asserting that the idea or concept behind a work of art is more important than the object itself. In conceptual art, the physical artifact, if one exists at all, is merely a vehicle for transmitting the idea. The movement represented a radical departure from traditional aesthetics, which had long prioritized craftsmanship, beauty, and the artist's technical skill. Conceptual artists argued that art should engage the intellect rather than merely please the eye.\n\nThe roots of conceptual art can be traced back to Marcel Duchamp, a French-American artist who in 1917 submitted a porcelain urinal, titled Fountain, to an exhibition in New York. Duchamp called such objects 'ready-mades,' ordinary manufactured items that the artist selects and designates as art. The urinal was rejected by the exhibition committee, but Duchamp's gesture was profoundly influential. By removing an object from its functional context and placing it in a gallery, Duchamp demonstrated that art is not defined by the maker's hand but by the artist's intention and the institutional framework that receives the object.\n\nDuchamp's ready-mades raised fundamental questions about the nature of art. If a urinal can be art, what distinguishes art from non-art? Is the artist's role to create beautiful objects, or to provoke thought? Does the value of a work reside in its material properties or in the ideas it embodies? These questions destabilized the traditional criteria of artistic judgment and opened the door for subsequent movements such as Pop Art, Minimalism, and Institutional Critique, all of which challenged the boundaries of what art could be.\n\nThe legacy of Duchamp's intervention continues to shape contemporary art practice. Many of today's most prominent artists work primarily with ideas, language, performance, or social situations rather than with paint or stone. Museums and galleries now routinely exhibit works that have no permanent physical form, existing only as instructions, documentation, or ephemeral events. Whether one sees this as the fulfillment of art's intellectual potential or its abdication of sensory responsibility, the conceptual turn initiated by Duchamp remains the defining condition of art in the modern era.",
+    "questions": [
+      {
+        "question": "What does conceptual art assert?",
+        "options": ["That technical skill is the most important aspect of art", "That the idea or concept behind a work is more important than the object itself", "That art must be beautiful", "That only paintings are real art"],
+        "correct": 1
+      },
+      {
+        "question": "What are ready-mades?",
+        "options": ["Objects specially crafted by the artist", "Ordinary manufactured items that the artist selects and designates as art", "Sketches prepared before painting", "Copies of classical sculptures"],
+        "correct": 1
+      },
+      {
+        "question": "What fundamental question did Duchamp's ready-mades raise?",
+        "options": ["How to make art more profitable", "What distinguishes art from non-art if a urinal can be art", "Whether art should be displayed in museums", "How to preserve art for future generations"],
+        "correct": 1
+      },
+      {
+        "question": "Which subsequent movements were influenced by Duchamp's challenges to artistic boundaries?",
+        "options": ["Romanticism and Realism", "Pop Art, Minimalism, and Institutional Critique", "Baroque and Rococo", "Impressionism and Post-Impressionism"],
+        "correct": 1
+      },
+      {
+        "question": "According to the text, how does much contemporary art practice operate?",
+        "options": ["Primarily with paint and stone", "Primarily with ideas, language, performance, or social situations", "Only through traditional sculpture", "Through mechanical reproduction alone"],
         "correct": 1
       }
     ]

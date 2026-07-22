@@ -35,72 +35,72 @@
     ]
   },
   {
-    "id": "tecnologia-medium-001",
+    "id": "tecnologia-easy-001",
     "theme": "tecnologia",
-    "difficulty": "medium",
-    "title": "Computacao Quantica: O Proximo Salto",
-    "source": "MIT Technology Review",
-    "content": "A computacao quantica representa uma mudanca radical na forma como processamos informacao. Ao contrario dos computadores tradicionais, que utilizam bits (0 ou 1), os computadores quanticos usam qubits, que podem existir em multiplos estados simultaneamente gracas ao principio da superposicao quanta.\n\nEsta capacidade permite resolver certos problemas exponencialmente mais rapido do que os melhores supercomputadores atuais. Aplicacoes praticas incluem a simulacao de moleculas para descoberta de farmacos, otimizacao de cadeias de suprimento complexas e quebrar sistemas de encriptacao.\n\nNo entanto, os computadores quanticos atuais enfrentam desafios significativos. Os qubits sao extremamente sensiveis a interferencias ambientais, exigindo temperaturas proximas do zero absoluto. alem disso, a correcao de erros quanticos continua a ser um obstaculo tecnico consideravel.\n\nEmpresas como Google, IBM e varias startups estao a competir para alcancar a 'vantagem quantica' pratica, o ponto em que um computador quantico pode resolver problemas que os computadores classicos simplesmente nao conseguem abordar.",
+    "difficulty": "easy",
+    "title": "O que e a Internet",
+    "source": "Wikipedia PT",
+    "content": "A Internet e um sistema global de redes de computadores interligados que utilizam um conjunto proprio de protocolos (TCP/IP) para servir utilizadores em todo o mundo. E uma rede de varias outras redes, que consiste em milhoes de empresas privadas, publicas, academicas e de governo, com alcance local e global. A Internet oferece uma extensa gama de recursos, como os documentos da World Wide Web (WWW), o correio eletronico e a partilha de ficheiros.\n\nAs origens da Internet remontam a uma pesquisa encomendada pelo governo dos Estados Unidos na decada de 1960 para construir uma forma de comunicacao robusta atraves de redes de computadores. A ARPANET, criada em 1969, foi a rede precursora. Tim Berners-Lee inventou a World Wide Web em 1989 no CERN, permitindo aceder a paginas com texto, imagens e video. A Internet foi totalmente comercializada em 1995 e desde entao cresceu exponencialmente.\n\nA Internet serve para muitas coisas: enviar emails, ver videos, fazer compras, estudar, trabalhar e comunicar. Para aceder, e necessario um dispositivo e uma ligacao a rede. Os metodos comuns de acesso incluem banda larga por cabo, fibra otica, WiFi e dados moveis (3G, 4G, 5G).\n\nA Internet nao tem governanca centralizada. A padronizacao dos protocolos e feita pela IETF e a atribuicao de enderecos IP e nomes de dominio e coordenada pela ICANN. Apesar das suas vantagens, a Internet tambem traz riscos, como a divulgacao de informacao falsa, o roubo de dados pessoais e a vigilancia em massa.",
     "questions": [
       {
-        "question": "Qual e a diferenca fundamental entre bits e qubits?",
-        "options": ["Qubits sao mais rapidos", "Qubits podem existir em multiplos estados simultaneamente", "Bits sao mais precisos", "Qubits usam mais energia"],
+        "question": "Quando tiveram inicio as pesquisas que levaram a criacao da Internet?",
+        "options": ["Nos anos 1940", "Nos anos 1960", "Nos anos 1980", "Nos anos 2000"],
         "correct": 1
       },
       {
-        "question": "Qual destes NAO e mencionado como aplicacao pratica da computacao quantica?",
-        "options": ["Simulacao de moleculas", "Otimizacao de cadeias de suprimento", "Criacao de redes sociais", "Quebrar sistemas de encriptacao"],
-        "correct": 2
-      },
-      {
-        "question": "Que temperatura e geralmente necessaria para os qubits funcionarem corretamente?",
-        "options": ["Temperatura ambiente", "Temperaturas muito altas", "Temperaturas proximas do zero absoluto", "Qualquer temperatura funciona"],
-        "correct": 2
-      },
-      {
-        "question": "O que significa 'vantagem quantica'?",
-        "options": ["Quando um computador quantico e mais barato", "Quando um computador quantico resolve problemas que computadores classicos nao conseguem", "Quando um computador quantico usa menos energia", "Quando um computador quantico e menor"],
+        "question": "O que era a ARPANET?",
+        "options": ["Um motor de busca", "Uma rede precursora criada pelo governo dos Estados Unidos", "Um programa de email", "Um tipo de computador"],
         "correct": 1
       },
       {
-        "question": "Segundo o texto, qual e um dos principais desafios tecnicos da computacao quantica?",
-        "options": ["Falta de aplicacoes praticas", "Correcao de erros quanticos", "Excesso de energia necessaria", "Tamanho dos componentes"],
+        "question": "Quem inventou a World Wide Web?",
+        "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
+        "correct": 2
+      },
+      {
+        "question": "Que organizacao coordena a atribuicao de enderecos IP e nomes de dominio na Internet?",
+        "options": ["A IETF", "A ICANN", "A ONU", "A NATO"],
+        "correct": 1
+      },
+      {
+        "question": "Qual dos seguintes e um risco da Internet, segundo o texto?",
+        "options": ["Aprender coisas novas", "O roubo de dados pessoais", "Comunicar com amigos", "Fazer compras online"],
         "correct": 1
       }
     ]
   },
   {
-    "id": "filosofia-hard-001",
+    "id": "filosofia-easy-001",
     "theme": "filosofia",
-    "difficulty": "hard",
-    "title": "O Mito da Caverna de Platao",
-    "source": "A Republica, Livro VII",
-    "content": "Imagina uma caverna subterranea onde, desde a infancia, seres humanos estao acorrentados de tal modo que nao podem mover a cabeca nem os olhos. Atras deles, arde uma fogueira, e entre a fogueira e os prisioneiros existe um caminho elevado por onde pessoas transportam objetos variados.\n\nOs prisioneiros, nunca tendo visto outra coisa, acreditam que as sombras projetadas na parede da caverna sao a realidade. Se um deles fosse libertado e forcado a olhar para a luz, ficaria deslumbrado e incapaz de ver os objetos reais. Seria necessario habituar-se gradualmente: primeiro as sombras, depois os reflexos na agua, finalmente os objetos e, por ultimo, o proprio sol.\n\nSe esse prisioneiro libertado regressasse a caverna para contar aos outros o que viu, seria ridicularizado. Os restantes prisioneiros, acostumados a escuridao, nao acreditariam nas suas palavras e considerariam que a libertacao lhes tinha estragado a vista.\n\nEsta alegoria ilustra a jornada do filosofo: da ignorancia (sombras) ao conhecimento (luz), e a dificuldade de comunicar verdades profundas a quem nunca as experimentou. Para Platao, a educacao e precisamente esta conversao da alma em direcao a luz da verdade.",
+    "difficulty": "easy",
+    "title": "Socrates e o Conhecimento",
+    "source": "Wikipedia PT",
+    "content": "Socrates foi um filosofo ateniense do periodo classico da Grecia Antiga, nascido por volta de 470 a.C. e falecido em 399 a.C. E creditado como um dos fundadores da filosofia ocidental. Nao deixou obra escrita, mas o seu pensamento chegou ate nos atraves dos dialogos escritos pelos seus discipulos Platao e Xenofonte, e tambem pelas pecas do seu contemporaneo Aristofanes.\n\nSocrates acreditava que a verdadeira sabedoria consiste em reconhecer a propria ignorancia. A famosa frase 'So sei que nada sei' resume esta ideia: so quando admitimos que nao sabemos tudo e que podemos comecar a aprender. Para buscar o conhecimento, usava um metodo chamado maieutica, que consistia em fazer perguntas. Caminhava pelas ruas de Atenas e conversava com as pessoas, ajudando-as a descobrir contradicoes nas suas proprias crencas.\n\nSocrates defendia que se deve dar mais enfase a procura do que nao se sabe do que transmitir o que se julga saber. Privilegiava a investigacao permanente e acreditava que a excelencia moral era uma questao de inspiracao, nao de parentesco. Convidava outros a concentrarem-se no proprio desenvolvimento em vez de buscar a riqueza material.\n\nSocrates foi condenado a morte pelo tribunal ateniense, acusado de nao reconhecer os deuses da cidade e de corromper a juventude. Bebeu cicuta (um veneno) calmamente, preferindo morrer a trair os seus principios. A sua vida e morte tornaram-no um dos maiores simbolos da filosofia ocidental.",
     "questions": [
       {
-        "question": "O que representam as sombras na alegoria da caverna?",
-        "options": ["O conhecimento verdadeiro", "A ignorancia e a ilusao", "A liberdade", "A educacao"],
+        "question": "Como conhecemos o pensamento de Socrates?",
+        "options": ["Atraves dos seus livros", "Atraves dos dialogos escritos por Platao e Xenofonte", "Atraves de pinturas", "Atraves de cartas"],
         "correct": 1
       },
       {
-        "question": "Segundo Platao, o que aconteceria a um prisioneiro libertado ao ver a luz pela primeira vez?",
-        "options": ["Adaptar-se-ia imediatamente", "Ficaria deslumbrado e incapaz de ver", "Sentir-se-ia feliz", "Voltaria imediatamente a caverna"],
+        "question": "O que significa a frase 'So sei que nada sei'?",
+        "options": ["Que Socrates era ignorante", "Que a verdadeira sabedoria consiste em reconhecer a propria ignorancia", "Que nao vale a pena estudar", "Que ninguem sabe tudo"],
         "correct": 1
       },
       {
-        "question": "Como reagiriam os outros prisioneiros se o libertado tentasse contar-lhes o que viu?",
-        "options": ["Acreditariam nele", "Ficariam curiosos", "Ridiculariza-lo-iam", "Pediriam para serem libertados"],
-        "correct": 2
-      },
-      {
-        "question": "Na alegoria, o que representa o sol?",
-        "options": ["A ignorancia", "A verdade e o conhecimento supremo", "O poder politico", "A liberdade fisica"],
+        "question": "O que era a maieutica?",
+        "options": ["Um tipo de comida grega", "Um metodo de fazer perguntas para chegar a verdade", "Uma arma de guerra", "Um templo grego"],
         "correct": 1
       },
       {
-        "question": "Que papel atribui Platao a educacao nesta alegoria?",
-        "options": ["Entretenimento", "Controlo social", "Conversao da alma em direcao a verdade", "Acumulacao de conhecimentos"],
-        "correct": 2
+        "question": "Porque foi Socrates condenado a morte?",
+        "options": ["Porque roubou", "Porque foi acusado de nao reconhecer os deuses e corromper a juventude", "Porque fugiu de Atenas", "Porque era estrangeiro"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo Socrates, em que devemos concentrar-nos?",
+        "options": ["Na riqueza material", "No proprio desenvolvimento", "Na fama", "No poder politico"],
+        "correct": 1
       }
     ]
   },
@@ -140,6 +140,391 @@
     ]
   },
   {
+    "id": "literatura-easy-001",
+    "theme": "literatura",
+    "difficulty": "easy",
+    "title": "Fernando Pessoa e os Heteronimos",
+    "source": "Wikipedia PT",
+    "content": "Fernando Pessoa (1888-1935) e considerado um dos maiores poetas da literatura portuguesa e o maior poeta lusofono do seculo XX. Nascido em Lisboa a 13 de junho de 1888, viveu parte da sua infancia em Durban, Africa do Sul, onde estudou numa escola catolica irlandesa. Regressou definitivamente a Lisboa em 1905.\n\nPessoa e famoso por ter criado os heteronimos, que sao diferentes 'personalidades literarias' com biografias, estilos e filosofias proprias. Ao contrario de pseudonimos, os heteronimos pensam e escrevem de forma independente. Os principais heteronimos sao Alberto Caeiro, Alvaro de Campos, Ricardo Reis e o semi-heteronimo Bernardo Soares.\n\nAlberto Caeiro era o 'mestre' dos outros heteronimos. Defendia uma visao simples e direta da natureza. Alvaro de Campos, engenheiro de formacao, exprimia a ansiedade do mundo moderno. Ricardo Reis, medico exilado no Brasil, escrevia odes classicas. Bernardo Soares, autor do Livro do Desassossego, era um ajudante de guarda-livros em Lisboa.\n\nPessoa publicou muito pouco em vida. 'Mensagem' foi o unico livro de poesia publicado em portugues durante a sua vida, em 1934. Depois da sua morte, foram encontrados mais de 25 000 paginas ineditas numa arca, revelando a dimensao extraordinaria do seu trabalho. O critico Harold Bloom considerou Pessoa como um dos 26 melhores escritores da civilizacao ocidental.",
+    "questions": [
+      {
+        "question": "Onde nasceu Fernando Pessoa?",
+        "options": ["No Porto", "Em Lisboa", "Em Coimbra", "Em Durban"],
+        "correct": 1
+      },
+      {
+        "question": "O que sao heteronimos?",
+        "options": ["Pseudonimos simples", "Personalidades literarias com biografias e estilos proprios", "Livros nao publicados", "Tipos de poemas"],
+        "correct": 1
+      },
+      {
+        "question": "Qual era o 'mestre' dos outros heteronimos?",
+        "options": ["Alvaro de Campos", "Ricardo Reis", "Alberto Caeiro", "Bernardo Soares"],
+        "correct": 2
+      },
+      {
+        "question": "Qual foi o unico livro de poesia publicado por Pessoa em vida?",
+        "options": ["Livro do Desassossego", "Mensagem", "Os Lusiadas", "O Guardador de Rebanhos"],
+        "correct": 1
+      },
+      {
+        "question": "Quantas paginas ineditas foram encontradas depois da morte de Pessoa?",
+        "options": ["Cerca de 5 000", "Cerca de 10 000", "Mais de 25 000", "Mais de 100 000"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "artes-easy-001",
+    "theme": "artes",
+    "difficulty": "easy",
+    "title": "O Renascimento Italiano",
+    "source": "Wikipedia PT",
+    "content": "O Renascimento foi um periodo da historia da Europa marcado pelo resgate do pensamento classico greco-romano. Considera-se geralmente o intervalo entre meados do seculo XIV e o final do seculo XVI. O termo 'renascimento' refere-se a intensa revalorizacao das referencias da Antiguidade Classica, promovendo a exaltação da racionalidade, do empirismo e da natureza.\n\nO movimento manifestou-se primeiro na regiao da Toscana, sobretudo nas cidades de Florenca e Siena, e扩散iu-se para o resto da peninsula Italica e depois para a maioria dos paises da Europa Ocidental. Familias de banqueiros e mecenas, como os Medici em Florenca, patrocinavam artistas. Foi nesta epoca que viveram Leonardo da Vinci, Michelangelo e Rafael.\n\nOs artistas renascentistas interessavam-se pela representacao realista do corpo humano e do mundo natural. Estudaram anatomia, perspetiva e luz para criar pinturas e esculturas mais proximas da realidade. A 'Mona Lisa' de Leonardo e o teto da Capela Sistina de Michelangelo sao exemplos famosos. A invencao da imprensa por Gutenberg facilitou a divulgacao do conhecimento.\n\nO Renascimento nao foi apenas um movimento artistico. Transformou tambem a ciencia, a politica e a forma como as pessoas viam o mundo. O humanismo, a principal corrente de pensamento, colocava o homem no centro das preocupacoes. Algumas das figuras mais destacadas incluem Leonardo da Vinci, Michelangelo, Dante, Maquiavel, Copernico e Gutenberg.",
+    "questions": [
+      {
+        "question": "Em que periodo se considera geralmente o Renascimento?",
+        "options": ["Entre os seculos X e XII", "Entre meados do seculo XIV e o final do seculo XVI", "Entre os seculos XVIII e XIX", "Entre os seculos V e VIII"],
+        "correct": 1
+      },
+      {
+        "question": "Onde nasceu o Renascimento?",
+        "options": ["Em Franca", "Em Inglaterra", "Na regiao da Toscana, em Italia", "Em Espanha"],
+        "correct": 2
+      },
+      {
+        "question": "Que familia rica patrocinava artistas em Florenca?",
+        "options": ["Os Borgias", "Os Medici", "Os Habsburgos", "Os Tudor"],
+        "correct": 1
+      },
+      {
+        "question": "O que era o humanismo?",
+        "options": ["Uma religiao nova", "Uma corrente de pensamento que colocava o homem no centro das preocupacoes", "Um estilo de pintura", "Um tipo de musica"],
+        "correct": 1
+      },
+      {
+        "question": "Que invencao facilitou a divulgacao do conhecimento durante o Renascimento?",
+        "options": ["O telegrafo", "A imprensa", "O computador", "O telescopio"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "economia-easy-001",
+    "theme": "economia",
+    "difficulty": "easy",
+    "title": "Oferta e Procura",
+    "source": "Wikipedia PT",
+    "content": "A Lei da Oferta e da Procura e um modelo de determinacao de precos num mercado. Num mercado em concorrencia perfeita, os agentes economicos tomam decisoes que variam o preco ate que a quantidade procurada seja igual a quantidade oferecida, resultando num equilibrio economico.\n\nA procura refere-se a quantidade de um produto que os consumidores querem e podem comprar a um determinado preco. Geralmente, quanto mais alto for o preco, menos pessoas estarao dispostas a compra-lo. Quando o preco sobe, o poder de compra diminui (efeito renda) e os consumidores mudam para bens mais baratos (efeito substituicao).\n\nA oferta e a quantidade de um produto que os produtores estao dispostos a vender a um determinado preco. Normalmente, quanto maior for o preco, mais produtores estarao dispostos a fornecer o produto. O preco alto incentiva a producao. O preco de equilibrio e o ponto onde a oferta e a procura se encontram, ou seja, a quantidade oferecida e igual a quantidade procurada.\n\nEste mecanismo funciona em quase todos os mercados, desde o preco dos legumes ate ao preco das casas ou das acoes na bolsa. Existem outros fatores que influenciam a procura: os desejos e necessidades das pessoas, o poder de compra, a disponibilidade de servicos, a existencia de produtos substitutos e a capacidade das empresas de produzirem determinadas mercadorias.",
+    "questions": [
+      {
+        "question": "O que determina o preco dos bens e servicos num mercado livre, segundo a Lei da Oferta e da Procura?",
+        "options": ["Apenas o governo", "O equilibrio entre a oferta e a procura", "Apenas os produtores", "Apenas os consumidores"],
+        "correct": 1
+      },
+      {
+        "question": "O que acontece geralmente a procura quando o preco sobe?",
+        "options": ["A procura sobe", "A procura desce", "A procura fica igual", "A procura desaparece"],
+        "correct": 1
+      },
+      {
+        "question": "O que e o preco de equilibrio?",
+        "options": ["O preco mais alto possivel", "O ponto onde a oferta e a procura se encontram", "O preco decidido pelo governo", "O preco mais baixo possivel"],
+        "correct": 1
+      },
+      {
+        "question": "O que e o 'efeito substituicao' quando o preco sobe?",
+        "options": ["Os consumidores deixam de comprar tudo", "Os consumidores mudam para bens mais baratos", "Os produtores aumentam a producao", "O governo baja os impostos"],
+        "correct": 1
+      },
+      {
+        "question": "O mecanismo de oferta e procura funciona em:",
+        "options": ["Apenas no mercado de legumes", "Quase todos os mercados", "Apenas na bolsa de valores", "Apenas em Portugal"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "livros-easy-001",
+    "theme": "livros",
+    "difficulty": "easy",
+    "title": "Dom Quixote de Cervantes",
+    "source": "Wikipedia PT",
+    "content": "Dom Quixote e um romance espanhol de Miguel de Cervantes, publicado em duas partes, em 1605 e 1615. E considerado uma obra fundadora da literatura ocidental e o primeiro romance moderno. E tambem um dos livros mais traduzidos do mundo e um dos romances mais vendidos de todos os tempos.\n\nA historia conta as aventuras de um fidalgo da baixa nobreza chamado Alonso Quijano, que le tantos romances de cavalaria que decide tornar-se cavaleiro andante sob o nome de Dom Quixote. Recruta como escudeiro um simples trabalhador rural, Sancho Panca, que traz um humor terreno a retorica elevada de Dom Quixote. Dom Quixote escolhe uma camponesa chamada Dulcineia como sua dama ideal e monta o seu velho cavalo Rocinante.\n\nDom Quixote confunde a realidade com a fantasia: ve gigantes onde ha moinhos de vento, e exercitos inimigos onde ha rebanhos de ovelhas. A obra e uma satira aos romances de cavalaria, mas tambem uma reflexao profunda sobre a loucura, a idealizacao e a luta entre ideais e realidade.\n\nEm 2002, o Comite Nobel Noruegues realizou um estudo entre escritores de 55 paises, e a maioria votou em Dom Quixote como 'a maior obra de ficcao ja escrita'. A expressao 'lutar contra moinhos de vento' deriva deste livro e significa atacar inimigos imaginarios.",
+    "questions": [
+      {
+        "question": "Quem escreveu Dom Quixote?",
+        "options": ["William Shakespeare", "Miguel de Cervantes", "Gabriel Garcia Marquez", "Eca de Queiros"],
+        "correct": 1
+      },
+      {
+        "question": "Como se chamava o cavalo de Dom Quixote?",
+        "options": ["Bucefalo", "Rocinante", "Pegasus", "Bucéfalo"],
+        "correct": 1
+      },
+      {
+        "question": "Quem era Sancho Panca?",
+        "options": ["O inimigo de Dom Quixote", "O fiel escudeiro de Dom Quixote", "O pai de Dom Quixote", "O rei de Espanha"],
+        "correct": 1
+      },
+      {
+        "question": "O que Dom Quixote via onde havia moinhos de vento?",
+        "options": ["Castelos", "Gigantes", "Dragoes", "Montanhas"],
+        "correct": 1
+      },
+      {
+        "question": "Em 2002, como foi classificado Dom Quixote por escritores de 55 paises?",
+        "options": ["O livro mais chato ja escrito", "A maior obra de ficcao ja escrita", "O melhor livro de poemas", "O livro mais curto do mundo"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "ciencia-medium-001",
+    "theme": "ciencia",
+    "difficulty": "medium",
+    "title": "O DNA e a Hereditariedade",
+    "source": "Wikipedia PT",
+    "content": "O acido desoxirribonucleico (ADN ou DNA) e um polimero composto por duas cadeias polinucleotidicas que se enrolam umas sobre as outras para formar uma dupla helice. Carrega instrucoes geneticas para o desenvolvimento, funcionamento, crescimento e reproducao de todos os organismos conhecidos. A estrutura da molecula foi originalmente descoberta por Rosalind Franklin, mas o Premio Nobel de 1962 foi entregue a James Watson e Francis Crick.\n\nCada nucleotido e formado por uma base nitrogenada (adenina, timina, citosina ou guanina), um acucar (desoxirribose) e um grupo fosfato. As bases emparelham-se de forma especifica: adenina com timina e citosina com guanina. Esta complementaridade permite que o DNA se duplique com precisao, transmitindo a informacao genetica de uma celula para as suas filhas. A cadeia de DNA tem 2,2 a 2,4 nanometros de largura.\n\nOs genes sao segmentos de DNA que contem a informacao genetica. A leitura destas sequencias e feita por intermedio do codigo genetico, que especifica a sequencia linear dos aminoacidos das proteinas. Os seres humanos possuem cerca de 3 mil milhoes de pares de bases dispostos em 46 cromossomas. Apenas 1,5% do genoma humano consiste de exoes (que codificam proteinas).\n\nO DNA pode ser danificado por mutagenios como luz ultravioleta, raios-X e agentes oxidantes. A recombinaçao genetica permite aos cromossomas trocar informacao genetica e produzir novas combinaoes de genes, aumentando a variacao genetica. O estudo do DNA revolucionou a medicina, permitindo diagnosticar doencas geneticas, desenvolver terapias dirigidas e compreender a evolucao das especies.",
+    "questions": [
+      {
+        "question": "Qual e a estrutura do DNA?",
+        "options": ["Cadeia simples", "Tripla helice", "Dupla helice", "Estrutura circular"],
+        "correct": 2
+      },
+      {
+        "question": "Com que base se emparelha a adenina no DNA?",
+        "options": ["Citosina", "Guanina", "Timina", "Uracilo"],
+        "correct": 2
+      },
+      {
+        "question": "Quem descobriu originalmente a estrutura da molecula de DNA?",
+        "options": ["James Watson", "Francis Crick", "Rosalind Franklin", "Charles Darwin"],
+        "correct": 2
+      },
+      {
+        "question": "Que percentagem do genoma humano codifica proteinas?",
+        "options": ["1,5%", "10%", "50%", "98,5%"],
+        "correct": 0
+      },
+      {
+        "question": "O que e a recombinaçao genetica?",
+        "options": ["A destruicao de DNA", "A troca de informacao genetica entre cromossomas, produzindo novas combinaoes de genes", "A criacao de novos nucleotidos", "A duplicacao de RNA"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "tecnologia-medium-001",
+    "theme": "tecnologia",
+    "difficulty": "medium",
+    "title": "Computacao Quantica: O Proximo Salto",
+    "source": "MIT Technology Review",
+    "content": "A computacao quantica representa uma mudanca radical na forma como processamos informacao. Ao contrario dos computadores tradicionais, que utilizam bits (0 ou 1), os computadores quanticos usam qubits, que podem existir em multiplos estados simultaneamente gracas ao principio da superposicao quanta.\n\nEsta capacidade permite resolver certos problemas exponencialmente mais rapido do que os melhores supercomputadores atuais. Aplicacoes praticas incluem a simulacao de moleculas para descoberta de farmacos, otimizacao de cadeias de suprimento complexas e quebrar sistemas de encriptacao.\n\nNo entanto, os computadores quanticos atuais enfrentam desafios significativos. Os qubits sao extremamente sensiveis a interferencias ambientais, exigindo temperaturas proximas do zero absoluto. alem disso, a correcao de erros quanticos continua a ser um obstaculo tecnico consideravel.\n\nEmpresas como Google, IBM e varias startups estao a competir para alcancar a 'vantagem quantica' pratica, o ponto em que um computador quantico pode resolver problemas que os computadores classicos simplesmente nao conseguem abordar.",
+    "questions": [
+      {
+        "question": "Qual e a diferenca fundamental entre bits e qubits?",
+        "options": ["Qubits sao mais rapidos", "Qubits podem existir em multiplos estados simultaneamente", "Bits sao mais precisos", "Qubits usam mais energia"],
+        "correct": 1
+      },
+      {
+        "question": "Qual destes NAO e mencionado como aplicacao pratica da computacao quantica?",
+        "options": ["Simulacao de moleculas", "Otimizacao de cadeias de suprimento", "Criacao de redes sociais", "Quebrar sistemas de encriptacao"],
+        "correct": 2
+      },
+      {
+        "question": "Que temperatura e geralmente necessaria para os qubits funcionarem corretamente?",
+        "options": ["Temperatura ambiente", "Temperaturas muito altas", "Temperaturas proximas do zero absoluto", "Qualquer temperatura funciona"],
+        "correct": 2
+      },
+      {
+        "question": "O que significa 'vantagem quantica'?",
+        "options": ["Quando um computador quantico e mais barato", "Quando um computador quantico resolve problemas que computadores classicos nao conseguem", "Quando um computador quantico usa menos energia", "Quando um computador quantico e menor"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, qual e um dos principais desafios tecnicos da computacao quantica?",
+        "options": ["Falta de aplicacoes praticas", "Correcao de erros quanticos", "Excesso de energia necessaria", "Tamanho dos componentes"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "filosofia-medium-001",
+    "theme": "filosofia",
+    "difficulty": "medium",
+    "title": "O Estoicismo de Zenao a Marco Aurelio",
+    "source": "Wikipedia PT",
+    "content": "O estoicismo e uma filosofia helenistica que floresceu na Grecia e Roma antigas. Foi fundado por Zenao de Citio por volta de 300 a.C. na Antiga Agora de Atenas. Os estoicos acreditavam que o universo operava de acordo com a razao, ou seja, por um Deus que esta imerso na propria natureza. Forneceram um relato unificado do mundo, construido a partir de ideais de logica, fisica monistica e etica naturalista.\n\nO estoicismo ensina que a felicidade nao depende de circunstancias externas, como riqueza, saude ou fama, mas sim da forma como reagimos a essas circunstancias. Os estoicos distinguiam entre o que esta no nosso controlo (pensamentos, juizes, acoes) e o que nao esta (corpo, bens, reputacao). A sabedoria consiste em focar-se apenas no primeiro grupo e aceitar o segundo com serenidade. A virtude consiste numa vontade que esta de acordo com a Natureza.\n\nMarco Aurelio (121-180 d.C.) foi imperador romano e um dos mais importantes representantes do estoicismo. As suas 'Meditacoes', escritas em grego durante campanhas militares, sao um diario pessoal de reflexoes sobre como viver com virtude. Apesar de governar o maior imperio do mundo, lembrava a si mesmo da fugacidade da gloria e da importancia da justica.\n\nO estoicismo influencia ate hoje a psicologia moderna, nomeadamente a terapia cognitivo-comportamental. A ideia de que nao sao os acontecimentos que nos perturbam, mas os juizes que fazemos sobre eles, e central tanto na filosofia estoica como na pratica terapeutica contemporanea. A filosofia estoica foi a inspiracao filosofica original para a psicoterapia cognitiva moderna.",
+    "questions": [
+      {
+        "question": "Quem fundou o estoicismo?",
+        "options": ["Socrates", "Platao", "Zenao de Citio", "Aristoteles"],
+        "correct": 2
+      },
+      {
+        "question": "Segundo o estoicismo, de que depende a felicidade?",
+        "options": ["Da riqueza", "Da saude", "Da forma como reagimos as circunstancias", "Da fama"],
+        "correct": 2
+      },
+      {
+        "question": "Que distinçao fazem os estoicos?",
+        "options": ["Entre ricos e pobres", "Entre o que esta no nosso controlo e o que nao esta", "Entre bem e mal", "Entre oriente e ocidente"],
+        "correct": 1
+      },
+      {
+        "question": "Que influencia o estoicismo tem na psicologia moderna?",
+        "options": ["Nenhuma influencia", "Influencia a terapia cognitivo-comportamental", "Influencia a psicanalise", "Influencia a hipnose"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo os estoicos, o que e a virtude?",
+        "options": ["A acumulacao de riqueza", "Uma vontade que esta de acordo com a Natureza", "A busca do prazer", "O dominio sobre os outros"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "historia-medium-001",
+    "theme": "historia",
+    "difficulty": "medium",
+    "title": "A Primeira Guerra Mundial",
+    "source": "Wikipedia PT",
+    "content": "A Primeira Guerra Mundial (1914-1918) foi um conflito belico global centrado na Europa que envolveu todas as grandes potencias do mundo. O conflito foi desencadeado pelo assassinio do arquiduque Francisco Fernando da Austria-Hungria em Sarajevo, a 28 de junho de 1914, pelo nacionalista iugoslavo Gavrilo Princip. Este evento ativou uma rede de aliancas militares que arrastou nacoes para a guerra em cascata.\n\nDe um lado estavam as Potencias Centrais (Alemanha, Austria-Hungria, Imperio Otomano e Bulgaria); do outro, os Aliados (Franca, Reino Unido, Russia, Italia e, a partir de 1917, os Estados Unidos). A guerra travou-se em varias frentes, mas a mais mortifera foi a frente ocidental, onde soldados enfrentaram condicoes desumanas nas trincheiras, entre lama, ratos e gases toxicos. A guerra de trincheiras tornou-se o simbolo deste conflito.\n\nA guerra introduziu armas novas, como metralhadoras, tanques, avioes e armas quimicas, causando cerca de 18 milhoes de mortos e feridos. Imperios seculares desmoronaram-se: o Austro-Hungaro, o Otomano, o Russo e o Alemao desapareceram ou foram radicalmente transformados. A Liga das Nacoes foi formada na esperança de evitar outro conflito desta magnitude.\n\nO Tratado de Versalhes (1919), que impos a Alemanha condicoes humilhantes, incluindo reparaçoes financeiras exorbitantes e perdas territoriais, criou um clima de ressentimento que contribuiu diretamente para a ascensao do nazismo e para a Segunda Guerra Mundial. A Alemanha foi totalmente responsabilizada pela guerra, assumindo todos os custos e limitando o seu exercito a 100 000 soldados.",
+    "questions": [
+      {
+        "question": "Que evento desencadeou a Primeira Guerra Mundial?",
+        "options": ["A invasao da Polonia", "O assassinio do arquiduque Francisco Fernando", "A queda do Muro de Berlim", "O ataque a Pearl Harbor"],
+        "correct": 1
+      },
+      {
+        "question": "Quem eram as Potencias Centrais?",
+        "options": ["Franca, Reino Unido e Russia", "Alemanha, Austria-Hungria, Imperio Otomano e Bulgaria", "Estados Unidos, Italia e Japao", "Portugal, Espanha e Grecia"],
+        "correct": 1
+      },
+      {
+        "question": "Qual foi a frente mais mortifera da guerra?",
+        "options": ["A frente oriental", "A frente ocidental, com as trincheiras", "A frente africana", "A frente asiatica"],
+        "correct": 1
+      },
+      {
+        "question": "Que organizacao foi formada na esperanca de evitar outro conflito desta magnitude?",
+        "options": ["A NATO", "A Uniao Europeia", "A Liga das Nacoes", "As Nacoes Unidas"],
+        "correct": 2
+      },
+      {
+        "question": "Que consequencia o Tratado de Versalhes teve, segundo o texto?",
+        "options": ["Trouxe paz duradoura a Europa", "Criou um clima de ressentimento que contribuiu para a ascensao do nazismo", "Uniu a Alemanha e a Franca", "Deu inicio a Guerra Fria"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "literatura-medium-001",
+    "theme": "literatura",
+    "difficulty": "medium",
+    "title": "O Realismo Magico de Gabriel Garcia Marquez",
+    "source": "Revista de Literatura Hispanica",
+    "content": "Gabriel Garcia Marquez (1927-2014), escritor colombiano e premio Nobel da Literatura em 1982, e o principal representante do realismo magico, um movimento literario que funde o cotidiano com elementos fantasticos de forma naturalizada.\n\nA obra mais celebre de Marquez, 'Cem Anos de Solidao' (1967), narra a historia da familia Buendia na ficticia vila de Macondo, ao longo de sete geracoes. Nesta narrativa, acontecimentos extraordinarios, como chuvas de flores amarelas, mulheres que sobem ao ceu enquanto dobram roupa, ou um morto que regressa para conversar com os vivos, sao tratados como factos banais, integrados na rotina das personagens.\n\nO realismo magico nao e fantasia pura. Diferencia-se dela precisamente pela naturalidade com que o extraordinario e apresentado: nao ha surpresa, nao ha explicaçao, nao ha necessidade de suspensao da descrenca. O fantastico e simplesmente parte da realidade tal como as personagens a vivem. Esta tecnica reflete, segundo Marquez, a propria realidade da America Latina, onde o absurdo e o miraculoso coexistem com o quotidiano.\n\nPara alem do fantastico, a obra de Marquez explora temas como a solidao, o poder, a violencia politica e a memoria. O seu estilo, influenciado pela oralidade e pelas historias contadas pela avo, combina humor, ironia e uma profunda compaixao pelas personagens. A sua influencia estendeu-se a literatura mundial, inspirando autores em Africa, Asia e Europa.",
+    "questions": [
+      {
+        "question": "O que e o realismo magico?",
+        "options": ["Um genero de ficcao cientifica", "Um movimento literario que funde o cotidiano com elementos fantasticos de forma naturalizada", "Um tipo de poesia surrealista", "Um movimento de pintura"],
+        "correct": 1
+      },
+      {
+        "question": "Qual e a obra mais celebre de Gabriel Garcia Marquez?",
+        "options": ["O Amor nos Tempos do Colera", "Cem Anos de Solidao", "Cronica de uma Morte Anunciada", "O Outono do Patriarca"],
+        "correct": 1
+      },
+      {
+        "question": "Como se diferencia o realismo magico da fantasia pura?",
+        "options": ["Pela quantidade de magia", "Pela naturalidade com que o extraordinario e apresentado, sem surpresa nem explicaçao", "Pelo numero de personagens", "Pela epoca em que se passa"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo Marquez, o realismo magico reflete:",
+        "options": ["A imaginaçao de um so autor", "A propria realidade da America Latina, onde o absurdo e o miraculoso coexistem com o quotidiano", "A cultura europeia", "Um sonho coletivo"],
+        "correct": 1
+      },
+      {
+        "question": "Que influencia estilistica marcou a escrita de Marquez?",
+        "options": ["A literatura academica francesa", "A oralidade e as historias contadas pela avo", "Os jornais americanos", "A poesia japonesa"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "artes-medium-001",
+    "theme": "artes",
+    "difficulty": "medium",
+    "title": "O Impressionismo de Monet",
+    "source": "Wikipedia PT",
+    "content": "O impressionismo foi um movimento que surgiu na pintura francesa do seculo XIX, no momento da chamada Belle Epoque. O nome do movimento e derivado da obra 'Impressao, nascer do sol' (1872), de Claude Monet. Comecou com um grupo de jovens pintores que rompeu com as regras da pintura vigentes ate entao, negligenciando as formas para privilegiar a cor.\n\nOs impressionistas nao mais se preocupavam com os preceitos do realismo e/ou da academia. A luz e o movimento utilizando pinceladas soltas tornam-se o principal elemento da pintura, sendo que geralmente as telas eram pintadas ao ar livre para que o pintor pudesse capturar melhor as variaçoes de cores da natureza. As figuras nao devem ter contornos nitidos pois o desenho deixa de ser o principal meio estrutural do quadro, passando a ser a mancha/cor.\n\nClaude Monet levou esta abordagem ao extremo nas suas 'series', pintando o mesmo motivo em diferentes horas do dia e estacoes do ano: os Molinos de Rouen, os Palacios de Veneza, e sobretudo as Ninfeias do seu jardim em Giverny. Estas series demonstram como a luz transforma radicalmente a percepcao de um mesmo objeto. As cores nao devem ser misturadas na paleta; devem ser puras e dissociadas no quadro em pequenas pinceladas. E o observador que combina as varias cores.\n\nO impressionismo foi inicialmente rejeitado pelo publico e pela critica, que consideravam as obras inacabadas. O termo 'impressionistas' foi cunhado por uma critica negativa de Louis Leroy em 1874. Porem, acabou por se tornar um dos movimentos mais populares e influentes da historia da arte, abrindo caminho para o pos-impressionismo, o expressionismo, o fauvismo e o cubismo.",
+    "questions": [
+      {
+        "question": "De onde vem o nome 'Impressionismo'?",
+        "options": ["De um manifesto artistico", "Da obra de Monet 'Impressao, nascer do sol'", "De uma critica positiva de um jornal", "Do nome de um museo"],
+        "correct": 1
+      },
+      {
+        "question": "O que os impressionistas privilegiavam em detrimento das formas?",
+        "options": ["A linha", "A cor", "A perspetiva", "O desenho"],
+        "correct": 1
+      },
+      {
+        "question": "O que sao as 'series' de Monet?",
+        "options": ["Conjuntos de esculturas", "Pinturas do mesmo motivo em diferentes horas do dia e estacoes do ano", "Exposicoes em varios paises", "Colecoes de desenhos a lapis"],
+        "correct": 1
+      },
+      {
+        "question": "Como devem ser as cores na pintura impressionista, segundo o texto?",
+        "options": ["Misturadas na paleta", "Puras e dissociadas em pequenas pinceladas, sendo o observador que as combina", "Usadas apenas em tons de preto e branco", "Aplicadas com um esfumino"],
+        "correct": 1
+      },
+      {
+        "question": "Como foi recebido o impressionismo inicialmente?",
+        "options": ["Com entusiasmo geral", "Com rejeicao do publico e da critica", "Com indiferenca", "Com apoio imediato do governo"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "economia-medium-001",
+    "theme": "economia",
+    "difficulty": "medium",
+    "title": "Inflacao e o Poder de Compra",
+    "source": "Wikipedia PT",
+    "content": "A inflacao e o aumento geral nos precos de bens e servicos numa economia. Quando o nivel geral de precos aumenta, cada unidade de moeda compra menos bens e servicos; consequentemente, a inflacao corresponde a uma reducao do poder de compra do dinheiro. O oposto da inflacao e a deflaçao, uma diminuiçao sustentada do nivel geral de precos.\n\nA inflacao mede-se atraves do Indice de Precos no Consumidor (IPC), que calcula a variaçao percentual anualizada de um indice de precos geral. Existem varias causas para a inflacao. A inflacao de procura ocorre quando a procura agregada supera a capacidade produtiva da economia. A inflacao de custos acontece quando os custos de produçao (como a energia ou as materias-primas) aumentam, transferindo-se esse aumento para os precos finais.\n\nA inflacao moderada (geralmente em torno de 2% a 3% nos paises da OCDE) e considerada saudavel para a economia, pois reduz a gravidade das recessoes economicas e permite ao mercado de trabalho ajustar-se mais rapidamente. Porem, a inflacao elevada ou hiperinflacao (como a que ocorreu na Alemanha de Weimar em 1923, com indices de um trilhao por cento) destroi a confianca na moeda e destabiliza a sociedade.\n\nO banco central de cada pais tem como funcao manter a taxa de inflacao baixa e estavel atraves da politica monetaria, controlando as taxas de juro e a oferta monetaria. A tarefa e geralmente dada as autoridades monetarias, que controlam a politica monetaria atraves da fixaçao das taxas de juro, realizaçao de operaçoes de mercado aberto e alteraçao dos depositos compulsorios dos bancos comerciais.",
+    "questions": [
+      {
+        "question": "O que e a inflacao?",
+        "options": ["A diminuiçao dos precos", "O aumento geral nos precos de bens e servicos", "O aumento dos salarios", "A queda da produçao"],
+        "correct": 1
+      },
+      {
+        "question": "Como se mede a inflacao?",
+        "options": ["Atraves do Produto Interno Bruto", "Atraves do Indice de Precos no Consumidor (IPC)", "Atraves da taxa de desemprego", "Atraves do orcamento do Estado"],
+        "correct": 1
+      },
+      {
+        "question": "O que causa a inflacao de custos?",
+        "options": ["O excesso de procura", "O aumento dos custos de produçao, como energia e materias-primas", "A diminuicao dos impostos", "O aumento das exportaçoes"],
+        "correct": 1
+      },
+      {
+        "question": "Que taxa de inflacao e geralmente considerada saudavel nos paises da OCDE?",
+        "options": ["0%", "Em torno de 2% a 3%", "Em torno de 10%", "Em torno de 50%"],
+        "correct": 1
+      },
+      {
+        "question": "Qual e a funcao principal do banco central em relaçao a inflacao?",
+        "options": ["Aumenta-la", "Ignora-la", "Manter a taxa de inflacao baixa e estavel atraves da politica monetaria", "Elimina-la completamente"],
+        "correct": 2
+      }
+    ]
+  },
+  {
     "id": "livros-medium-001",
     "theme": "livros",
     "difficulty": "medium",
@@ -175,12 +560,222 @@
     ]
   },
   {
+    "id": "ciencia-hard-001",
+    "theme": "ciencia",
+    "difficulty": "hard",
+    "title": "A Mecanica Quantica e o Principio da Incerteza",
+    "source": "Revista Portuguesa de Fisica",
+    "content": "A mecanica quantica e a teoria fisica que descreve o comportamento da materia e da energia a escalas subatomicas. Ao contrario da fisica classica, que assume que as propriedades de um sistema podem ser conhecidas com precisao absoluta, a mecanica quantica introduz limites fundamentais ao que e possivel medir e prever.\n\nO principio da incerteza de Heisenberg, formulado em 1927, afirma que e impossivel conhecer simultaneamente com precisao absoluta a posiçao e o momento (massa vezes velocidade) de uma particula. Quanto mais precisamente se mede a posiçao, menos precisamente se pode conhecer o momento, e vice-versa. Esta nao e uma limitaçao dos instrumentos de mediçao, mas uma propriedade intrinseca da natureza.\n\nOutro conceito fundamental e a superposiçao quanta: uma particula pode existir em multiplos estados simultaneamente ate ser observada. O ato de observaçao 'colapsa' a funçao de onda, forcando a particula a assumir um estado definido. Esta ideia, ilustrada pelo celebre experimento mental do gato de Schrodinger, desafia a noçao classica de realidade objetiva.\n\nO emaranhamento quantico, que Einstein chamou de 'açao fantasmagorica a distancia', ocorre quando duas particulas se tornam correlacionadas de tal modo que o estado de uma determina instantaneamente o estado da outra, independentemente da distancia que as separa. Este fenomeno, experimentalmente confirmado, e a base de tecnologias emergentes como a computaçao quantica e a criptografia quantica.\n\nAs implicaçoes filosoficas da mecanica quantica sao profundas. Questionam o determinismo, a noçao de realidade independente do observador e os limites do conhecimento cientifico. A teoria, apesar do seu sucesso empirico extraordinario, continua a gerar debate sobre a sua interpretaçao.",
+    "questions": [
+      {
+        "question": "O que afirma o principio da incerteza de Heisenberg?",
+        "options": ["Que tudo e incerto na fisica", "Que e impossivel conhecer simultaneamente com precisao absoluta a posiçao e o momento de uma particula", "Que os instrumentos de mediçao sao sempre imprecisos", "Que a fisica classica esta completamente errada"],
+        "correct": 1
+      },
+      {
+        "question": "O que e a superposiçao quanta?",
+        "options": ["Uma particula que se move muito rapido", "Uma particula que existe em multiplos estados simultaneamente ate ser observada", "A sobreposiçao de duas ondas sonoras", "Um tipo de reaçao nuclear"],
+        "correct": 1
+      },
+      {
+        "question": "O que e o emaranhamento quantico?",
+        "options": ["A colisao de duas particulas", "A correlaçao entre duas particulas de tal modo que o estado de uma determina o estado da outra instantaneamente", "A destruiçao de particulas subatomicas", "Um tipo de radiaçao"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, a incerteza de Heisenberg e:",
+        "options": ["Uma falha dos instrumentos de mediçao", "Uma propriedade intrinseca da natureza", "Um erro matematico", "Uma teoria ultrapassada"],
+        "correct": 1
+      },
+      {
+        "question": "Que implicaçao filosofica a mecanica quantica levanta, segundo o texto?",
+        "options": ["Confirma o determinismo absoluto", "Questiona o determinismo, a realidade independente do observador e os limites do conhecimento", "Prova a existencia de Deus", "Demonstra que a ciencia e inutil"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "tecnologia-hard-001",
+    "theme": "tecnologia",
+    "difficulty": "hard",
+    "title": "Blockchain e Criptomoedas",
+    "source": "Wired Portugal",
+    "content": "A blockchain e uma tecnologia de registo distribuido que permite armazenar informaçao de forma descentralizada, transparente e segura. Em vez de um servidor central, os dados sao replicados em milhares de computadores (nos) espalhados pelo mundo. Cada bloco da cadeia contem um conjunto de transaçoes verificadas, um carimbo temporal e uma ligaçao criptografica ao bloco anterior, tornando praticamente impossivel alterar informaçao passada sem que a rede detete a manipulaçao.\n\nAs criptomoedas sao a aplicaçao mais conhecida da blockchain. O Bitcoin, criado em 2009 por uma entidade anonima sob o pseudonimo de Satoshi Nakamoto, foi a primeira moeda digital a funcionar sem intermediarios. A sua emissao e controlada por um algoritmo matematico que limita o numero total de unidades a 21 milhoes, criando uma escassez artificial semelhante a do ouro.\n\nO mecanismo de consenso, designado 'prova de trabalho', exige que os nos competam para resolver problemas matematicos complexos. Quem resolve o problema primeiro ganha o direito de validar o bloco e recebe uma recompensa em bitcoins. Este processo, chamado de 'minagem', consome quantidades significativas de energia, gerando preocupaçoes ambientais.\n\nPara alem das criptomoedas, a blockchain tem aplicaçoes em contratos inteligentes, cadeia de suprimento, voto eletronico e identidade digital. No entanto, a tecnologia enfrenta desafios de escalabilidade, regulamentaçao e adoçao em larga escala. A volatilidade das criptomoedas e a associaçao a atividades ilicitas continuam a levantar cepticismo entre reguladores e economistas.\n\nO debate sobre o futuro da blockchain reflete uma tensao mais ampla entre inovaçao tecnologica e estabilidade institucional. Enquanto entusiastas veem na descentralizaçao uma revoluçao democratica, critics alertam para os riscos de sistemas financeiros paralelos fora do controlo dos Estados.",
+    "questions": [
+      {
+        "question": "O que e a blockchain?",
+        "options": ["Um tipo de criptomoeda", "Uma tecnologia de registo distribuido descentralizada", "Um programa de computador para minerar ouro", "Uma rede social"],
+        "correct": 1
+      },
+      {
+        "question": "Quem criou o Bitcoin?",
+        "options": ["Elon Musk", "Uma entidade anonima sob o pseudonimo de Satoshi Nakamoto", "O governo dos Estados Unidos", "Um banco suico"],
+        "correct": 1
+      },
+      {
+        "question": "O que e o mecanismo de 'prova de trabalho'?",
+        "options": ["Um metodo de votaçao", "Um processo em que nos competem para resolver problemas matematicos complexos e validar blocos", "Uma forma de encriptaçao de dados", "Um tipo de contrato inteligente"],
+        "correct": 1
+      },
+      {
+        "question": "Qual e uma das principais preocupaçoes ambientais associadas ao Bitcoin?",
+        "options": ["A produçao de residuos eletronicos", "O consumo significativo de energia na minagem", "A contaminaçao da agua", "A emissao de gases toxicos"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, que tensao reflete o debate sobre o futuro da blockchain?",
+        "options": ["Entre tecnologia e natureza", "Entre inovaçao tecnologica e estabilidade institucional", "Entre ricos e pobres", "Entre Europa e America"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "filosofia-hard-001",
+    "theme": "filosofia",
+    "difficulty": "hard",
+    "title": "O Mito da Caverna de Platao",
+    "source": "A Republica, Livro VII",
+    "content": "Imagina uma caverna subterranea onde, desde a infancia, seres humanos estao acorrentados de tal modo que nao podem mover a cabeca nem os olhos. Atras deles, arde uma fogueira, e entre a fogueira e os prisioneiros existe um caminho elevado por onde pessoas transportam objetos variados.\n\nOs prisioneiros, nunca tendo visto outra coisa, acreditam que as sombras projetadas na parede da caverna sao a realidade. Se um deles fosse libertado e forcado a olhar para a luz, ficaria deslumbrado e incapaz de ver os objetos reais. Seria necessario habituar-se gradualmente: primeiro as sombras, depois os reflexos na agua, finalmente os objetos e, por ultimo, o proprio sol.\n\nSe esse prisioneiro libertado regressasse a caverna para contar aos outros o que viu, seria ridicularizado. Os restantes prisioneiros, acostumados a escuridao, nao acreditariam nas suas palavras e considerariam que a libertacao lhes tinha estragado a vista.\n\nEsta alegoria ilustra a jornada do filosofo: da ignorancia (sombras) ao conhecimento (luz), e a dificuldade de comunicar verdades profundas a quem nunca as experimentou. Para Platao, a educaçao e precisamente esta conversao da alma em direçao a luz da verdade.",
+    "questions": [
+      {
+        "question": "O que representam as sombras na alegoria da caverna?",
+        "options": ["O conhecimento verdadeiro", "A ignorancia e a ilusao", "A liberdade", "A educaçao"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo Platao, o que aconteceria a um prisioneiro libertado ao ver a luz pela primeira vez?",
+        "options": ["Adaptar-se-ia imediatamente", "Ficaria deslumbrado e incapaz de ver", "Sentir-se-ia feliz", "Voltaria imediatamente a caverna"],
+        "correct": 1
+      },
+      {
+        "question": "Como reagiriam os outros prisioneiros se o libertado tentasse contar-lhes o que viu?",
+        "options": ["Acreditariam nele", "Ficariam curiosos", "Ridiculariza-lo-iam", "Pediriam para serem libertados"],
+        "correct": 2
+      },
+      {
+        "question": "Na alegoria, o que representa o sol?",
+        "options": ["A ignorancia", "A verdade e o conhecimento supremo", "O poder politico", "A liberdade fisica"],
+        "correct": 1
+      },
+      {
+        "question": "Que papel atribui Platao a educaçao nesta alegoria?",
+        "options": ["Entretenimento", "Controlo social", "Conversao da alma em direçao a verdade", "Acumulaçao de conhecimentos"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "historia-hard-001",
+    "theme": "historia",
+    "difficulty": "hard",
+    "title": "A Revoluçao Francesa",
+    "source": "Annales Historiques de la Revolution Francaise",
+    "content": "A Revoluçao Francesa (1789-1799) marcou o fim do Antigo Regime em Franca e transformou radicalmente a politica europeia. As suas causas sao multifacetadas: crise financeira do Estado, desigualdade social entre os tres estados (clero, nobreza e terceiro estado), influencia das ideias iluministas e maus anos agricolas que agravaram a fome popular.\n\nA convocaçao dos Estados Gerais em maio de 1789, pela primeira vez em quase dois seculos, revelou a incapacidade da monarquia em reformar-se. O terceiro estado, representando 98% da populaçao, declarou-se Assembleia Nacional e jurou dar uma constituiçao a Franca. A queda da Bastilha a 14 de julho tornou-se o simbolo da revoluçao.\n\nA Declaraçao dos Direitos do Homem e do Cidadao (agosto de 1789) proclamou principios universais de liberdade, igualdade e fraternidade. Porem, a revoluçao radicalizou-se progressivamente. A execuçao de Luis XVI em janeiro de 1793 marcou o inicio do Terror, periodo em que milhares de pessoas foram guilhotinadas sob a lideranca de Robespierre.\n\nA fase termidoriana (1794-1795) pos fim ao Terror, mas a instabilidade politica continuou. O golpe de 18 de Brumario (novembro de 1799) levou Napoleao Bonaparte ao poder, encerrando a revoluçao e iniciando um novo ciclo autoritario.\n\nO legado da Revoluçao Francesa e ambivalente: por um lado, consagrou os direitos individuais, a soberania popular e o Estado laico; por outro, demonstrou como ideais libertarios podem degenerar em violencia totalitaria. Este paradoxo continua a alimentar o debate politico moderno.",
+    "questions": [
+      {
+        "question": "Qual das seguintes NAO e apresentada como causa da Revoluçao Francesa?",
+        "options": ["Crise financeira do Estado", "Influencia das ideias iluministas", "Uma invasao estrangeira", "Desigualdade social entre os tres estados"],
+        "correct": 2
+      },
+      {
+        "question": "O que representava o terceiro estado?",
+        "options": ["O clero", "A nobreza", "98% da populaçao", "O exercito"],
+        "correct": 2
+      },
+      {
+        "question": "O que proclamou a Declaraçao dos Direitos do Homem e do Cidadao?",
+        "options": ["A monarquia absoluta", "Principios universais de liberdade, igualdade e fraternidade", "A superioridade da nobreza", "A divisao da Franca em estados independentes"],
+        "correct": 1
+      },
+      {
+        "question": "O que foi o Terror?",
+        "options": ["Um periodo de paz", "Um periodo em que milhares de pessoas foram guilhotinadas sob a lideranca de Robespierre", "Uma guerra contra a Austria", "Uma epidemia"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, o legado da Revoluçao Francesa e:",
+        "options": ["Totalmente positivo", "Totalmente negativo", "Ambivalente: consagrou direitos individuais mas tambem mostrou como ideais libertarios podem degenerar em violencia", "Irrelevante para a politica moderna"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": "literatura-hard-001",
+    "theme": "literatura",
+    "difficulty": "hard",
+    "title": "O Modernismo de James Joyce",
+    "source": "Journal of Modernist Studies",
+    "content": "James Joyce (1882-1941), escritor irlandes, e uma das figuras centrais do modernismo literario. A sua obra transformou radicalmente a narrativa ficcional, introduzindo tecnicas inovadoras que desafiaram as convençoes do romance tradicional.\n\nA tecnica mais caracteristica de Joyce e o 'fluxo de consciencia' (stream of consciousness), que procura reproduzir o pensamento tal como ocorre na mente humana: fragmentado, associativo, nao linear. Em 'Ulisses' (1922), esta tecnica e levada ao extremo: o romance acompanha um unico dia na vida de Leopold Bloom em Dublin, mas abrange toda a experiencia humana atraves dos monologos interiores das personagens.\n\nJoyce explorou tambem a polissemia da linguagem e a multiplicidade de registos. Em 'Finnegans Wake' (1939), a sua obra mais radical, a linguagem torna-se quase indecifravel, composta por trocadilhos multilingues, neologismos e referencias cruzadas que desafiam a propria noçao de leitura linear. O livro comea no meio de uma frase e termina no meio de outra, sugerindo um ciclo infinito.\n\nA dimensao mitica e intertextual da obra joyciana e igualmente notavel. 'Ulisses' reinterpreta a Odisseia de Homero, transferindo a epopeia do heroi guerreiro para o homem comum. Cada capitulo corresponde a um episodio da viagem de Ulisses, recriado na Dublin do seculo XX. Esta tecnica de paralelismo mitico confere profundidade simbolica ao banal.\n\nO impacto de Joyce na literatura posterior e incalculavel. Autores como Virginia Woolf, William Faulkner, Samuel Beckett e Jorge Luis Borges reconheceram a sua divida para com a revoluçao narrativa operada pelo escritor irlandes. A sua obra continua a ser objeto de estudo academico intenso, gerando novas interpretaçoes a cada geraçao.",
+    "questions": [
+      {
+        "question": "Que tecnica narrativa e mais caracteristica de James Joyce?",
+        "options": ["A narrativa em primeira pessoa", "O fluxo de consciencia", "O realismo social", "O narrador onisciente"],
+        "correct": 1
+      },
+      {
+        "question": "Qual e a estrutura temporal de 'Ulisses'?",
+        "options": ["Abarca toda a vida de Leopold Bloom", "Acompanha um unico dia na vida de Leopold Bloom em Dublin", "Decorre ao longo de uma semana", "Nao tem estrutura temporal definida"],
+        "correct": 1
+      },
+      {
+        "question": "O que torna 'Finnegans Wake' uma obra radical?",
+        "options": ["A sua extensao", "A linguagem quase indecifravel, com trocadilhos multilingues e neologismos", "A ausencia de personagens", "A falta de enredo"],
+        "correct": 1
+      },
+      {
+        "question": "Que obra classica e reinterpretada em 'Ulisses'?",
+        "options": ["A Eneida de Virgilio", "A Odisseia de Homero", "A Divina Comedia de Dante", "A Republica de Platao"],
+        "correct": 1
+      },
+      {
+        "question": "Segundo o texto, o impacto de Joyce na literatura posterior e:",
+        "options": ["Limitado a Irlanda", "Incalculavel, influenciando autores como Woolf, Faulkner, Beckett e Borges", "Restrito ao seculo XX", "Praticamente inexistente"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "artes-hard-001",
+    "theme": "artes",
+    "difficulty": "hard",
+    "title": "A Arte Conceptual e o Ready-Made de Duchamp",
+    "source": "Tate Modern, London",
+    "content": "A arte conceptual representa uma ruptura radical com a definiçao tradicional de obra de arte. Emergida nos anos 1960, privilegia a ideia (o conceito) em detrimento do objeto estetico. Segundo o artista Sol LeWitt, 'a ideia torna-se uma maquina que faz a arte', sugerindo que o processo intelectual e mais importante do que a execuçao material.\n\nAs raizes desta revoluçao encontram-se no ready-made de Marcel Duchamp. Em 1917, Duchamp apresentou 'Fonte', um urinol de porcelana assinado com o pseudonimo 'R. Mutt', como obra de arte. O gesto era deliberadamente provocador: ao selecionar um objeto industrial comum e desloca-lo para um contexto museologico, Duchamp questionava os criterios que determinam o que e ou nao arte.\n\nO ready-made desloca o valor artistico da habilidade tecnica para a intencionalidade do artista. Nao importa se o objeto e 'belo' ou 'bem feito'; importa o enquadramento conceptual que o transforma em arte. Esta ideia influenciou movimentos subsequentes como a pop art, a arte minimal e a propria arte conceptual.\n\nA arte conceptual levanta questoes filosoficas profundas: se qualquer objeto pode ser arte, que funçao desempenha o museo? Que autoridade tem o curador ou o mercado para validar uma obra? A desmaterializaçao do objeto artistico, prevista por Lucy Lippard em 1968, levou a formas efemeras de expressao: performances, instalaçoes, intervençoes urbanas e obras baseadas em texto.\n\nOs critics do movimento argumentam que a arte conceptual pode tornar-se excessivamente hermetica, inacessivel ao publico geral, e dependente de um discurso teorico que substitui a experiencia estetica. Os defensores, porem, veem-na como a democratizaçao definitiva da arte, liberta das exigencias do mercado e da produçao material.",
+    "questions": [
+      {
+        "question": "O que privilegia a arte conceptual?",
+        "options": ["A beleza visual", "A ideia (o conceito) em detrimento do objeto estetico", "A tecnica de pintura", "A venda de obras"],
+        "correct": 1
+      },
+      {
+        "question": "O que era 'Fonte' de Duchamp?",
+        "options": ["Uma escultura de marmore", "Um urinol de porcelana apresentado como obra de arte", "Uma pintura abstrata", "Um ready-made de madeira"],
+        "correct": 1
+      },
+      {
+        "question": "O que o ready-made desloca no valor artistico?",
+        "options": ["Da cor para a forma", "Da habilidade tecnica para a intencionalidade do artista", "Do museo para a rua", "Do passado para o presente"],
+        "correct": 1
+      },
+      {
+        "question": "Que questoes filosoficas a arte conceptual levanta, segundo o texto?",
+        "options": ["Apenas sobre precos de obras", "Sobre o que e arte, o papel do museo e a autoridade do curador", "Sobre a vida dos artistas", "Sobre a historia da pintura"],
+        "correct": 1
+      },
+      {
+        "question": "Que critica e feita a arte conceptual, segundo o texto?",
+        "options": ["Que e demasiado cara", "Que pode tornar-se excessivamente hermetica e inacessivel ao publico geral", "Que e demasiado simples", "Que copia demasiado a arte antiga"],
+        "correct": 1
+      }
+    ]
+  },
+  {
     "id": "economia-hard-001",
     "theme": "economia",
     "difficulty": "hard",
     "title": "A Teoria dos Jogos e o Equilibrio de Nash",
     "source": "Journal of Economic Perspectives",
-    "content": "A teoria dos jogos e um ramo da matematica aplicada que estuda situacoes estrategicas onde os agentes tomam decisoes que afetam mutuamente os seus resultados. Desenvolvida inicialmente por John von Neumann e Oskar Morgenstern, ganhou maior notoriedade com o trabalho de John Nash, que introduziu o conceito de equilibrio que hoje leva o seu nome.\n\nO equilibrio de Nash descreve uma situacao em que nenhum jogador tem incentivo para mudar a sua estrategia, dada a estrategia dos outros jogadores. Nao significa necessariamente o melhor resultado para todos, mas sim um estado de estabilidade estrategica.\n\nO exemplo mais celebre e o dilema do prisioneiro: dois suspeitos, interrogados separadamente, podem cooperar entre si ou trair-se. O equilibrio de Nash neste jogo leva ambos a trair, mesmo que a cooperacao produzisse um resultado melhor para ambos.\n\nEsta teoria tem aplicacoes vastas, desde a economia e ciencias politicas ate a biologia evolucionaria e inteligencia artificial. Porem, critics apontam que o equilibrio de Nash assume racionalidade perfeita, o que raramente se verifica no comportamento humano real.",
+    "content": "A teoria dos jogos e um ramo da matematica aplicada que estuda situaçoes estrategicas onde os agentes tomam decisoes que afetam mutuamente os seus resultados. Desenvolvida inicialmente por John von Neumann e Oskar Morgenstern, ganhou maior notoriedade com o trabalho de John Nash, que introduziu o conceito de equilibrio que hoje leva o seu nome.\n\nO equilibrio de Nash descreve uma situaçao em que nenhum jogador tem incentivo para mudar a sua estrategia, dada a estrategia dos outros jogadores. Nao significa necessariamente o melhor resultado para todos, mas sim um estado de estabilidade estrategica.\n\nO exemplo mais celebre e o dilema do prisioneiro: dois suspeitos, interrogados separadamente, podem cooperar entre si ou trair-se. O equilibrio de Nash neste jogo leva ambos a trair, mesmo que a cooperaçao produzisse um resultado melhor para ambos.\n\nEsta teoria tem aplicaçoes vastas, desde a economia e ciencias politicas ate a biologia evolucionaria e inteligencia artificial. Porem, critics apontam que o equilibrio de Nash assume racionalidade perfeita, o que raramente se verifica no comportamento humano real.",
     "questions": [
       {
         "question": "O que estuda a teoria dos jogos?",
@@ -189,7 +784,7 @@
       },
       {
         "question": "O que define o equilibrio de Nash?",
-        "options": ["O melhor resultado para todos os jogadores", "Uma situacao em que nenhum jogador tem incentivo para mudar a sua estrategia", "O resultado mais justo", "Uma situacao em que todos ganham igualmente"],
+        "options": ["O melhor resultado para todos os jogadores", "Uma situaçao em que nenhum jogador tem incentivo para mudar a sua estrategia", "O resultado mais justo", "Uma situaçao em que todos ganham igualmente"],
         "correct": 1
       },
       {
@@ -199,12 +794,47 @@
       },
       {
         "question": "Segundo o texto, qual e a principal critica ao equilibrio de Nash?",
-        "options": ["E demasiado simples", "Assume racionalidade perfeita, o que raramente se verifica no comportamento humano", "Nao tem aplicacoes praticas", "Foi inventado ha demasiado tempo"],
+        "options": ["E demasiado simples", "Assume racionalidade perfeita, o que raramente se verifica no comportamento humano", "Nao tem aplicaçoes praticas", "Foi inventado ha demasiado tempo"],
         "correct": 1
       },
       {
-        "question": "Em quais areas tem aplicacao a teoria dos jogos, segundo o texto?",
+        "question": "Em quais areas tem aplicaçao a teoria dos jogos, segundo o texto?",
         "options": ["Apenas em economia", "Economia, ciencias politicas, biologia evolucionaria e inteligencia artificial", "Apenas em matematica pura", "Apenas em jogos de video"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": "livros-hard-001",
+    "theme": "livros",
+    "difficulty": "hard",
+    "title": "Ulisses de James Joyce",
+    "source": "Cambridge Companion to James Joyce",
+    "content": "'Ulisses', publicado em 1922 por James Joyce, e amplamente considerado uma das obras mais importantes e desafiadoras da literatura moderna. O romance reinterpreta a Odisseia de Homero, transferindo a epopeia do heroi grego para o homem comum, Leopold Bloom, ao longo de um unico dia (16 de junho de 1904) em Dublin.\n\nA estrutura do romance e composta por 18 episodios, cada um correspondente a um episodio da viagem de Ulisses e escrito num estilo diferente. Esta diversidade tecnica e deliberada: Joyce queria que cada capitulo oferecesse uma perspetiva distinta sobre a experiencia humana. O episodio 'Proteu', por exemplo, segue Stephen Dedalus numa reflexao filosofica densa sobre a percepao e a linguagem; o episodio 'Lestrigoes' descreve o almoco de Bloom num restaurante com um estilo que simula a digestao.\n\nO monologo interior, ou fluxo de consciencia, e a tecnica mais emblematica da obra. Atraves dela, Joyce reproduz o pensamento das personagens tal como ocorre na mente: fragmentado, associativo, por vezes banal, por vezes lirico. O ultimo capitulo, o famoso monologo de Molly Bloom, consiste em oito longas frases sem pontuaçao, fluindo num torrente de pensamento sensorial e emocional.\n\nA obra levanta questoes sobre a natureza do heroismo, a relaçao entre mito e cotidiano, e os limites da representaçao literaria. Bloom, ao contrario de Ulisses, nao e guerreiro nem rei; e um publicitario judeu, cornudo, em luto pelo filho morto. Porem, a sua jornada ordinaria, feita de pequenos gestos e pensamentos, e elevada a epopeia pela arte de Joyce.\n\n'Ulisses' foi censurado, queimado e considerado obsceno na sua epoca. Porem, acabou por se tornar um marco da literatura mundial, influenciando geraçoes de escritores e transformando para sempre as possibilidades do romance.",
+    "questions": [
+      {
+        "question": "Que obra classica e reinterpretada em 'Ulisses'?",
+        "options": ["A Eneida de Virgilio", "A Odisseia de Homero", "A Divina Comedia de Dante", "A Iliada"],
+        "correct": 1
+      },
+      {
+        "question": "Quanto tempo decorre na narrativa de 'Ulisses'?",
+        "options": ["Uma semana", "Um mes", "Um unico dia", "Um ano"],
+        "correct": 2
+      },
+      {
+        "question": "O que caracteriza o ultimo capitulo, o monologo de Molly Bloom?",
+        "options": ["E escrito em verso", "Consiste em oito longas frases sem pontuaçao", "Nao tem personagens", "E o capitulo mais curto do livro"],
+        "correct": 1
+      },
+      {
+        "question": "Quem e Leopold Bloom?",
+        "options": ["Um guerreiro grego", "Um publicitario judeu, personagem central do romance", "O autor do livro", "Um rei de Dublin"],
+        "correct": 1
+      },
+      {
+        "question": "Como foi recebido 'Ulisses' na sua epoca, segundo o texto?",
+        "options": ["Foi imediatamente aclamado", "Foi censurado, queimado e considerado obsceno", "Foi ignorado completamente", "Foi premiado com o Nobel"],
         "correct": 1
       }
     ]
