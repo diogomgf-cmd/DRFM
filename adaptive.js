@@ -1,11 +1,13 @@
 const THEMES = ["ciencia", "tecnologia", "filosofia", "historia", "literatura", "artes", "economia", "livros"];
 const DIFFICULTIES = ["easy", "medium", "hard"];
+const SKILLS = ["explicit", "implicit", "main_idea", "vocabulary", "inference", "cause_effect", "author_purpose", "compare_contrast", "fact_opinion", "evaluate"];
 
 function pickAdaptive(texts, progress) {
   if (texts.length === 0) return null;
 
   const scores = progress.scores || {};
   const completedIds = progress.completedTexts || [];
+  const skillAccuracy = progress.skillAccuracy || {};
 
   let targetDifficulty = "medium";
   let recentScores = [];
@@ -35,6 +37,9 @@ function pickAdaptive(texts, progress) {
   const minCount = Math.min(...Object.values(themeCounts));
   const leastDoneThemes = THEMES.filter((th) => themeCounts[th] === minCount);
 
+  // Find weakest skills
+  const weakSkills = findWeakSkills(skillAccuracy);
+
   const candidates = texts.filter((tx) => {
     const diffOk = tx.difficulty === targetDifficulty;
     const themeOk = leastDoneThemes.includes(tx.theme);
@@ -44,7 +49,7 @@ function pickAdaptive(texts, progress) {
   if (candidates.length === 0) {
     const diffCandidates = texts.filter((tx) => tx.difficulty === targetDifficulty);
     if (diffCandidates.length > 0) {
-      return diffCandidates[Math.floor(Math.random() * diffCandidates.length)];
+      return pickBySkillAffinity(diffCandidates, weakSkills);
     }
   }
 
@@ -52,7 +57,42 @@ function pickAdaptive(texts, progress) {
     return texts[Math.floor(Math.random() * texts.length)];
   }
 
-  return candidates[Math.floor(Math.random() * candidates.length)];
+  return pickBySkillAffinity(candidates, weakSkills);
+}
+
+function findWeakSkills(skillAccuracy) {
+  const skillRatios = {};
+  SKILLS.forEach((skill) => {
+    const data = skillAccuracy[skill];
+    if (data && data.total > 0) {
+      skillRatios[skill] = data.correct / data.total;
+    } else {
+      skillRatios[skill] = 0.5;
+    }
+  });
+
+  const sorted = Object.entries(skillRatios).sort((a, b) => a[1] - b[1]);
+  return sorted.slice(0, 3).map((e) => e[0]);
+}
+
+function pickBySkillAffinity(candidates, weakSkills) {
+  if (candidates.length === 0) return null;
+  if (weakSkills.length === 0) {
+    return candidates[Math.floor(Math.random() * candidates.length)];
+  }
+
+  const scored = candidates.map((tx) => {
+    const textSkills = (tx.questions || []).map((q) => q.skill || 'unknown');
+    let affinity = 0;
+    weakSkills.forEach((ws) => {
+      if (textSkills.includes(ws)) affinity++;
+    });
+    return { text: tx, affinity };
+  });
+
+  const maxAffinity = Math.max(...scored.map((s) => s.affinity));
+  const best = scored.filter((s) => s.affinity === maxAffinity);
+  return best[Math.floor(Math.random() * best.length)].text;
 }
 
 function pickRandom(texts, progress) {

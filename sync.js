@@ -171,6 +171,20 @@ function mergeProgress(local, cloud) {
     };
   }
 
+  const skills = new Set([
+    ...Object.keys(local.skillAccuracy || {}),
+    ...Object.keys(cloud.skillAccuracy || {})
+  ]);
+  merged.skillAccuracy = {};
+  for (const skill of skills) {
+    const l = (local.skillAccuracy || {})[skill] || { correct: 0, total: 0 };
+    const c = (cloud.skillAccuracy || {})[skill] || { correct: 0, total: 0 };
+    merged.skillAccuracy[skill] = {
+      correct: l.correct + c.correct,
+      total: l.total + c.total
+    };
+  }
+
   merged.bestStreak = Math.max(local.bestStreak || 0, cloud.bestStreak || 0);
   merged.currentStreak = Math.max(local.currentStreak || 0, cloud.currentStreak || 0);
 

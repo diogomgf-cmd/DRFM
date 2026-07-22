@@ -12,6 +12,7 @@ function getDefaultProgress() {
     totalQuestions: 0,
     themeAccuracy: {},
     difficultyAccuracy: {},
+    skillAccuracy: {},
     settings: {
       language: "pt",
       fontSize: "normal",
@@ -42,7 +43,7 @@ function saveProgress(progress) {
   }
 }
 
-function recordScore(progress, textId, theme, difficulty, score, totalQuestions) {
+function recordScore(progress, textId, theme, difficulty, score, totalQuestions, skillData) {
   progress.totalTextsRead += 1;
   progress.totalCorrect += score;
   progress.totalQuestions += totalQuestions;
@@ -68,6 +69,16 @@ function recordScore(progress, textId, theme, difficulty, score, totalQuestions)
   }
   progress.difficultyAccuracy[difficulty].correct += score;
   progress.difficultyAccuracy[difficulty].total += totalQuestions;
+
+  if (skillData) {
+    Object.keys(skillData).forEach((skill) => {
+      if (!progress.skillAccuracy[skill]) {
+        progress.skillAccuracy[skill] = { correct: 0, total: 0 };
+      }
+      progress.skillAccuracy[skill].correct += skillData[skill].correct;
+      progress.skillAccuracy[skill].total += skillData[skill].total;
+    });
+  }
 
   const today = new Date().toDateString();
   const lastRead = progress.lastReadDate;

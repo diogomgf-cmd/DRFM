@@ -25,7 +25,8 @@ function answerQuestion(answerIndex) {
     questionIndex: currentQuiz.currentQuestion,
     selected: answerIndex,
     correct: q.correct,
-    isCorrect
+    isCorrect,
+    skill: q.skill || null
   });
 
   if (isCorrect) currentQuiz.score++;

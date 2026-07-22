@@ -248,7 +248,18 @@ function renderQuiz(container) {
         if (isQuizFinished()) {
           const results = getQuizResults();
           let progress = loadProgress();
-          progress = recordScore(progress, results.text.id, results.text.theme, results.text.difficulty, results.score, results.total);
+          const skillData = {};
+          results.answers.forEach((ans) => {
+            const skill = ans.skill || 'unknown';
+            if (!skillData[skill]) {
+              skillData[skill] = { correct: 0, total: 0 };
+            }
+            skillData[skill].total += 1;
+            if (ans.isCorrect) {
+              skillData[skill].correct += 1;
+            }
+          });
+          progress = recordScore(progress, results.text.id, results.text.theme, results.text.difficulty, results.score, results.total, skillData);
           showScreen("results", { results, progress });
         } else {
           showScreen("quiz");
