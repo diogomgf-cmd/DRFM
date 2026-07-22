@@ -225,7 +225,7 @@ h3 { font-size: 1rem; font-weight: 600; margin-bottom: 12px; color: var(--text-s
   margin-top: 16px;
 }
 
-.btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+.btn-primary:hover { opacity: 0.9; box-shadow: 0 4px 12px rgba(67, 97, 238, 0.3); }
 
 .btn-secondary {
   width: 100%;
